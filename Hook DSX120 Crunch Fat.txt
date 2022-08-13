@@ -187,10 +187,10 @@ ts
 200p
 
 # C2
-3.2n
+2.2n
 
 # C3
-3.2n
+1n
 
 # R1 Treble pot
 250k
