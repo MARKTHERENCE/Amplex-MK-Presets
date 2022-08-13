@@ -58,4 +58,4 @@ There may be cases where some of the presets will not work correctly, it is larg
 A workaround for this is to set the oversampling to 8x only (if you have touched the oversampling settings prior), and restart the plugin.
 
 # Special Thanks
-- @sdleffler for providing me a schematic of the Orange Thunderverb.
+- [@sdleffler]( https://github.com/sdleffler ) for providing me a schematic of the Orange Thunderverb.
