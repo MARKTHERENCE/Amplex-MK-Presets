@@ -1,0 +1,169 @@
+# Amplex V1.0 - Randy Beater
+
+# ------------------------- Valve Stage 1A -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+10k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- Valve Stage 1B -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+474
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+1M
+# C
+22n
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2A -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+100k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.68u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+1M
+# C
+47n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+# R1
+330k
+# R2
+100k
+
+# ------------------------- Valve Stage 2B -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+4.7k
+
+# Ck off-0, on-1
+# 0 - Boost OFF, 1 - Boost ON
+0
+
+# Ck, F
+224
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+150k
+# C
+47n
+
+# ------------------------- Low Pass Filter -------------------------
+# Anode cap 470pF imitation
+lp, 2500
+
+# ------------------------- Valve Stage 3A -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.68u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d
+100
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+# Shift OFF = 470p
+# Shift ON = 235p
+470p
+
+# C2
+22n
+
+# C3
+22n
+
+# R1 Treble pot
+220k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+25k
+
+# R4
+# OFF = 47k
+# ON = 68k
+47k
+
+end

@@ -1,0 +1,187 @@
+# Amplex V5.0 - Sneezeyawn Fast Rail
+
+# ------------------------- Plate Voltage -------------------------
+vp
+250
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+470k
+
+# C, F
+1n
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- OD1/OD2 -------------------------
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+# OD1, 68k
+# OD2, 47k
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+690k
+
+# C, F
+1n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+470k
+
+# R2
+220k
+
+# ------------------------- 1st/2nd/3rd Gear -------------------------
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+# 1st, 470k
+# 2nd, 68k
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+# 3rd, on
+0
+
+# Ck, F
+1u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+100k
+
+# R2
+100k
+
+# C1
+1n
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+480k
+
+# C, F
+22n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+330k
+
+# R2
+150k
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+330k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+100n
+
+# ------------------------- Divider -------------------------
+d
+100
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+470p
+
+# C2
+220n
+
+# C3
+22n
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+25k
+
+# R4
+47k
+
+end

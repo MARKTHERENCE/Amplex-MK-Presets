@@ -1,0 +1,85 @@
+# Amplex V5.0 - Ruski MiG500 Bassov
+
+# ------------------------- Plate Voltage -------------------------
+vp
+240
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+4.7k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+0.47u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+0.01u
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- Divider -------------------------
+d
+40
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+250p
+
+# C2
+0.1u
+
+# C3
+0.047u
+
+# R1 Treble pot
+500k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+25k
+
+# R4
+100k
+
+end

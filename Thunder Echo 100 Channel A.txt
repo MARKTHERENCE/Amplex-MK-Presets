@@ -1,0 +1,143 @@
+# Amplex V5.0 - Stone Ecbo 100 Drive
+
+# ------------------------- Plate Voltage -------------------------
+vp
+220
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+10u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+690k
+
+# C
+# Cap Switch
+1n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+220k
+
+# R2
+470k
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+# Cap Switch
+100p
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.2k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+10u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+690k
+
+# C
+# Cap Switch
+2.2n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+220k
+
+# R2
+470k
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+100u
+
+# ------------------------- Divider -------------------------
+d
+100
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+560p
+
+# C2
+22n
+
+# C3
+22n
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+500k
+
+# R3 Middle pot
+25k
+
+# R4
+22k
+
+end

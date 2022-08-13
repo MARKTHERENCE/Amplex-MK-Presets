@@ -1,0 +1,85 @@
+# Amplex V5.0 - Tallwatt DR103
+
+# ------------------------- Plate Voltage -------------------------
+vp
+250
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+47k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+100u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+470k
+
+# C, F
+22n
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+470k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+47n
+
+# ------------------------- Divider -------------------------
+d
+100
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+220p
+
+# C2
+47n
+
+# C3
+1000p
+
+# R1 Treble pot
+220k
+
+# R2 Bass pot
+470k
+
+# R3 Middle pot
+100k
+
+# R4
+100k
+
+end

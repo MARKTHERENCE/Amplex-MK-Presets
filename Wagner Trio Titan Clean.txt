@@ -1,0 +1,185 @@
+# Amplex V5.0 - Wagner Trio Titan
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+0.047u
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+65k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+51k
+
+# C, F
+0.015u
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+220p
+
+# C2
+0.033u
+
+# C3
+0.0047u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+250k
+
+# R3 Middle pot
+100k
+
+# R4
+51k
+
+# ------------------------- RC Low Pass Filter -------------------------
+lprc
+
+# R, Ohms
+250k
+
+# C, F
+0.0047u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1.1M
+
+# C, F
+220p
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+100k
+
+# R2
+1M
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+2.2M
+
+# C, F
+470p
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+220k
+
+# C, F
+22p
+
+# ------------------------- RC Lo Pass Filter -------------------------
+lprc
+
+# R, Ohms
+4.7M
+
+# C, F
+22p
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+0.047u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+220p
+
+# ------------------------- Divider -------------------------
+d
+10
+
+end
