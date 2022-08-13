@@ -38,7 +38,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Orange Thunderverb
 - Peavey JSX 120
 - Pignose G40/G60
-- Randall Thrasher 50
+- Randall Thrasher 50 (gain channel only)
 - Sovtek MIG-50
 - Sovtek MIG-60
 - Sovtek MIG-100H
