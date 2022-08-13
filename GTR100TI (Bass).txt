@@ -1,0 +1,190 @@
+# Amplex V5.0 - GTR100TI
+
+# ------------------------- Plate Voltage -------------------------
+vp
+240
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+680n
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+470k
+
+# C, F
+22n
+
+# ------------------------- Gain Type 2 -------------------------
+g2
+
+# C1, Bright switch
+1p
+
+# R1
+470k
+
+# C2 Bright cap
+1p
+
+# R2 Gain pot
+1M
+
+# R3 Load
+100k
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+10k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+940k
+
+# C, F
+# Bass switch; 22n-ON, 2-OFF
+22n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+470k
+
+# R2
+470k
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+470k
+
+# R2
+470k
+
+# C1
+470p
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1010k
+
+# C, F
+22n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+330k
+
+# R2
+680k
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+330k
+
+# Rp, Ohms
+200k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d
+100
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+470p
+
+# C2
+220n
+
+# C3
+22n
+
+# R1 Treble pot
+220k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+22k
+
+# R4
+33k
+
+end

@@ -1,0 +1,170 @@
+# Amplex V5.0 - Kamron '07
+
+# ------------------------- Plate Voltage -------------------------
+vp
+334
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+33k
+
+# Rp, Ohms
+330k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.68u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1170k
+
+# C, F
+0.022u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+470k
+
+# R2
+700k
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+60k
+
+# R2
+68k
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+60k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.68u
+
+# ------------------------- RC High Pass Filter 2 -------------------------
+hprc
+
+# R, Ohms
+1001k
+
+# C, F
+0.0022u
+
+# ------------------------- Resistive Divider 2 -------------------------
+rd
+
+# R1
+1k
+
+# R2
+1000k
+
+# ------------------------- Gain Type 2 -------------------------
+g2
+
+# C1
+470p
+
+# R1
+470k
+
+# C2 Bright cap
+1p
+
+# R2 Gain pot
+470k
+
+# R3 Load
+1M
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1, Ohms
+470k
+
+# R2, Ohms
+470k
+
+# C1, F
+470p
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+470k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.68u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d
+100
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+560p
+
+# C2
+22n
+
+# C3
+22n
+
+# R1 Treble pot
+110k
+
+# R2 Bass pot
+700k
+
+# R3 Middle pot
+25k
+
+# R4
+33k
+
+end

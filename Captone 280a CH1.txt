@@ -1,0 +1,128 @@
+# Amplex V1.0 - Captone 280a
+
+# ------------------------- Plate Voltage -------------------------
+vp
+117
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+47k
+
+# Rp, Ohms
+270k
+
+# Rk, Ohms
+470
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Tonestack Type 2 -------------------------
+ts2
+
+# C1
+0.047u
+
+# C2
+470p
+
+# C3
+0.0047u
+
+# C4
+470p
+
+# C5
+0.0047u
+
+# R1
+330k
+
+# R2
+47k
+
+# R3
+120k
+
+# R4 Load
+1M
+
+# Rb Bass pot
+1M
+
+# Rt Treble pot
+1M
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+470k
+
+# Rk, Ohms
+470
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+4.4M
+
+# C, F
+0.0022u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+2.2M
+
+# R2
+2.2M
+
+# ------------------------- Phase Inverter -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+2.2M
+
+# Rp, Ohms
+470k
+
+# Rk, Ohms
+12k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d
+70
+
+end

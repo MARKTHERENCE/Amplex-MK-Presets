@@ -1,0 +1,218 @@
+# Amplex V5.0 - Ferrouscore 120 Lead
+
+# ------------------------- Plate Voltage -------------------------
+vp
+250
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+10k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+300k
+
+# C, F
+1.1n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+150k
+
+# R2
+150k
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+150k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+370k
+
+# C, F
+10n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+220k
+
+# R2
+150k
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+220p
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+100k
+
+# R2
+100k
+
+# C1
+220p
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+300k
+
+# C, F
+3.4n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+150k
+
+# R2
+150k
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+150k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+470k
+
+# R2
+150k
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+470k
+
+# R2
+100k
+
+# C1
+220n
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+47k
+
+# R2
+47k
+
+# ------------------------- Divider -------------------------
+d, 12
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+# Pull Lead
+# 470pF > 940pF
+470pF
+
+# C2
+# Pull Deep
+# 22nF > 100nF
+100n
+
+# C3
+# Pull Mid Shift
+# 22nF > 10nF
+22n
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+250k
+
+# R3 Middle pot
+25k
+
+# R4
+47k
+
+end

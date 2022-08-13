@@ -1,0 +1,154 @@
+# Amplex V5.0 - Officer 6100
+
+# ------------------------- Plate Voltage -------------------------
+vp, 240
+
+# ------------------------- Valve Stage 3A -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+470p
+
+# ------------------------- Gain Boost -------------------------
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+100k
+
+# C, F
+680n
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+100k
+
+# C, F
+10n
+
+# ------------------------- Valve Stage 4A -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+100k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+220k
+
+# R2
+220k
+
+# C1
+470p
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+22n
+
+# ------------------------- Valve Stage 5A -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+100k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+2.2k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+470p
+
+# C2
+22n
+
+# C3
+22n
+
+# R1 Treble pot
+220k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+22k
+
+# R4
+33k
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+680k
+
+# C, F
+22n
+
+# ------------------------- Divider -------------------------
+d, 100
+
+end
