@@ -53,9 +53,11 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Vox AC30 Top Boost (Reissue)
 
 ## CAUTION!
-There may be cases where some of the presets will not work correctly, it is largely in part of bug within Amplex's oversampling feature.
+There may be cases where some of the presets will not work correctly, it is largely in part of a bug within Amplex's oversampling feature.
 
 A workaround for this is to set the oversampling to 8x only (if you have touched the oversampling settings prior), and restart the plugin.
 
 # Special Thanks
+- [StateOfMercury]( https://www.youtube.com/c/StateOfMercury ) and [【ブギウギ】]( https://soundcloud.com/funnyfaceman ) for indirectly inspiring me to write these presets in the first place.
 - [@sdleffler]( https://github.com/sdleffler ) for providing me a schematic of the Orange Thunderverb.
+- [@jorins]( https://github.com/jorins ) for recommending me to host these presets here.
