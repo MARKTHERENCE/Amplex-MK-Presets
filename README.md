@@ -31,6 +31,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall JTM45
 - Marshall JVM410H
 - Marshall Silver Jubilee 2555
+- Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
 - Matamp GT120
 - MESA/Boogie Stiletto Stage II
 - Orange Rockerverb
