@@ -20,6 +20,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Hiwatt DR103
 - Hughes & Kettner Triamp
 - Laney AOR 100 Series II
+- Laney GC30V
 - Laney GH100L
 - Laney GH100TI
 - Laney Ironheart 120H
@@ -52,6 +53,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Tube Works RT-2100
 - Vox AC30 Top Boost (Silver Jubilee/S.S. Red)
 - Vox AC30 Top Boost (Reissue)
+- Yamaha T100
 
 ## CAUTION!
 There may be cases where some of the presets will not work correctly, it is largely in part of a bug within Amplex's oversampling feature.
