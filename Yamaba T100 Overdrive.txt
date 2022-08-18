@@ -1,0 +1,174 @@
+# Amplex V1.0 - Yamaba T100
+
+# ------------------------- Plate Voltage -------------------------
+vp
+250
+
+# ------------------------- Valve Stage 1.1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+2u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1, Ohms
+1M	
+
+# R2, Ohms
+1M
+
+# C1, F
+0.001u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+1M
+# C
+0.001u
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2.1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+330k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+1.47M
+# C
+0.02u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+# R1
+470k
+
+# R2
+1M
+
+# ------------------------- Valve Stage 2.2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+470k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+39k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1, Ohms
+100k
+
+# R2, Ohms
+100k
+
+# C1, F
+0.001u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+1.5M
+# C
+0.02u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+330k
+# C
+0.02u
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Divider -------------------------
+d
+150
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+470p
+
+# C2
+0.02u
+
+# C3
+0.02u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+25k
+
+# R4
+47k
+
+end
