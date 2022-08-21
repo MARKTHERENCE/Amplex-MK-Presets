@@ -1,0 +1,133 @@
+# Amplex V1.0 - Rio M100
+
+# ------------------------- Plate Voltage -------------------------
+vp
+240
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+33k
+
+# Rp, Ohms
+47k
+
+# Rk, Ohms
+680
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+47u
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+270p
+
+# C2
+0.1u
+
+# C3
+0.047u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+250k
+
+# R3 Middle pot
+25k
+
+# R4
+# Pull Notch: 33k > 68k
+33k
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+250k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.50k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+2.42M
+# C
+0.0047u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+# Ninja Boost: 2.2M > 220k
+2.2M
+
+# R2
+220k
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.50k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+# R
+# Contour: 1M > 47k
+47k
+# C
+0.022u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+150k
+
+# R2
+150k
+
+# C1
+120p
+
+# ------------------------- Divider -------------------------
+d
+70
+
+end
