@@ -41,6 +41,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Peavey JSX 120
 - Pignose G40/G60
 - Randall Thrasher 50 (gain channel only)
+- Rivera Knucklehead
+- Rivera S-120/M60/M100
 - Sovtek MIG-50
 - Sovtek MIG-60
 - Sovtek MIG-100H
