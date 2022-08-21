@@ -136,7 +136,7 @@ ts
 250k
 
 # R3 Middle pot
-50k
+25k
 
 # R4
 # Pull Notch: 33k > 68k
