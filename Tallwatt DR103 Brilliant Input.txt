@@ -65,10 +65,10 @@ ts
 220p
 
 # C2
-47n
+1000p
 
 # C3
-1000p
+47n
 
 # R1 Treble pot
 220k

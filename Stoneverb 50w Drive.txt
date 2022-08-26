@@ -1,4 +1,4 @@
-# Amplex V5.0 - Stoneverb 50w
+# Amplex V5.0 - Stoneverb 100w
 
 # ------------------------- Plate Voltage -------------------------
 vp

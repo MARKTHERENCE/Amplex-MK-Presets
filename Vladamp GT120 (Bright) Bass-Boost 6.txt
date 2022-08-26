@@ -60,7 +60,7 @@ hprc
 g2
 
 # C1 Pre-bright cap, F
-0.047u
+0.01u
 
 # R1 Pre-bright res, Ohms
 100k
@@ -81,7 +81,7 @@ g2
 v
 
 # Rg, Ohms
-1M
+100k
 
 # Rp, Ohms
 220k
@@ -131,21 +131,12 @@ ts2
 # Rt Treble pot
 1M
 
-# ------------------------- Resistive Divider -------------------------
-rd
-
-# R1
-100k
-
-# R2
-220k
-
 # ------------------------- Valve Stage 3 -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-50k
+100k
 
 # Rp, Ohms
 390k
@@ -159,8 +150,17 @@ v
 # Ck, F
 1u
 
+# ------------------------- Low Shelf Filter -------------------------
+ls
+# R1
+390k
+# R2
+390k
+# C1
+680p
+
 # ------------------------- Divider -------------------------
 d
-200
+150
 
 end

@@ -113,7 +113,7 @@ g1
 v
 
 # Rg, Ohms
-1M
+470k
 
 # Rp, Ohms
 120k

@@ -23,48 +23,51 @@ v
 # Ck, F
 1u
 
-# ------------------------- Tonestack Type 2 -------------------------
-ts2
+# ------------------------- Tonestack Type 1 -------------------------
+ts
 
 # C1
-22n
+470p
 
 # C2
-220n
+22n
 
 # C3
 22n
 
-# C4
-470p
+# R1 Treble pot
+250k
 
-# C5
-1n
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+1M
+
+# R4
+47k
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
 
 # R1
-47k
+1M
 
 # R2
-6.8k
-
-# R3
-47k
-
-# R4 Load
 1M
 
-# Rb Bass pot
-1M
-
-# Rt Treble pot
-250k
+# C1
+1n
 
 # ------------------------- Valve Stage 2 -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-47k
+250k
 
 # Rp, Ohms
 100k
@@ -90,8 +93,5 @@ hprc
 
 # C, F
 22n
-
-# ------------------------- Gain Type 1 -------------------------
-g1
 
 end
