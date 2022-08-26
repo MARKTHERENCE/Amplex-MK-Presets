@@ -21,7 +21,7 @@ v
 1
 
 # Ck, F
-2u
+1u
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
@@ -34,7 +34,7 @@ hprc
 g2
 
 # C1 Pre-bright cap, F
-1p
+0.02u
 
 # R1 Pre-bright res, Ohms
 1M
