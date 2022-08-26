@@ -36,7 +36,7 @@ v
 1
 
 # Ck, F
-474
+470n
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
@@ -99,7 +99,7 @@ v
 1
 
 # Ck, F
-224
+0.22u
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
@@ -108,9 +108,17 @@ hprc
 # C
 47n
 
-# ------------------------- Low Pass Filter -------------------------
-# Anode cap 470pF imitation
-lp, 2500
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+100k
+
+# R2
+100k
+
+# C1
+470p
 
 # ------------------------- Valve Stage 3A -------------------------
 # Caution! High output level!
@@ -142,8 +150,8 @@ d
 ts
 
 # C1
-# Shift Down = 470p
-# Shift Mid/Up = 235p
+# Shift OFF = 470p
+# Shift ON = 470p + 470p
 470p
 
 # C2
@@ -162,8 +170,8 @@ ts
 25k
 
 # R4
-# Shift Down = 47k
-# Shift Up = 68k
+# OFF = 47k
+# ON = 68k
 47k
 
 end
