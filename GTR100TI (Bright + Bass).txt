@@ -1,48 +1,39 @@
-# Amplex V5.0 - Officer JVO410
+# Amplex V5.0 - GTR100TI
 
 # ------------------------- Plate Voltage -------------------------
 vp
-230
+240
 
-# ------------------------- Valve Stage 1:A -------------------------
+# ------------------------- Valve Stage 1 -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-1.0k
+68k
 
 # Rp, Ohms
-150k
+100k
 
 # Rk, Ohms
-1.5k
+2.7k
 
 # Ck off-0, on-1
 1
 
 # Ck, F
-1u
+680n
 
 # ------------------------- Low Shelf Filter -------------------------
 ls
 
 # R1
-1.5k
+2.7k
 
 # R2
-1.5k
+2.7k
 
 # C1
-220p
-
-# ------------------------- RC High Pass Filter -------------------------
-hprc
-
-# R, Ohms
-2.2M
-
-# C, F
-100n
+47p
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
@@ -51,82 +42,86 @@ hprc
 470k
 
 # C, F
-1n
+22n
 
-# ------------------------- Gain Type 1 -------------------------
-g1
+# ------------------------- Gain Type 2 -------------------------
+g2
 
-# ------------------------- Low Shelf Filter -------------------------
-ls
+# C1, Bright switch
+# ON > 470p
+470p
 
 # R1
+470k
+
+# C2 Bright cap
+470p
+
+# R2 Gain pot
 1M
 
-# R2
-1M
+# R3 Load
+100k
 
-# C1
-1.5n
-
-# ------------------------- Valve Stage 2:A -------------------------
+# ------------------------- Valve Stage 2 -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-470k
+68k
 
 # Rp, Ohms
-82k
+100k
 
 # Rk, Ohms
 10k
 
 # Ck off-0, on-1
-#Extra gain stage
-1
+0
 
 # Ck, F
 1u
-
-# ------------------------- Low Shelf Filter -------------------------
-ls
-
-# R1
-22k
-
-# R2
-22k
-
-# C1
-1n
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
 
 # R, Ohms
-570k
+940k
 
 # C, F
+# Bass switch; 22n-ON, 2.2n-OFF
 22n
 
 # ------------------------- Resistive Divider -------------------------
 rd
 
 # R1
-100k
+470k
 
 # R2
 470k
 
-# ------------------------- Valve Stage 2:B -------------------------
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+470k
+
+# R2
+470k
+
+# C1
+470p
+
+# ------------------------- Valve Stage 3 -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-100k
+68k
 
 # Rp, Ohms
-220k
+100k
 
 # Rk, Ohms
 820
@@ -141,14 +136,45 @@ v
 hprc
 
 # R, Ohms
-470k
+1010k
 
 # C, F
-330n
+22n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+330k
+
+# R2
+680k
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+330k
+
+# Rp, Ohms
+200k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
 
 # ------------------------- Divider -------------------------
 d
-150
+100
 
 # ------------------------- Tonestack Type 1 -------------------------
 ts
@@ -157,21 +183,21 @@ ts
 470p
 
 # C2
-22n
+220n
 
 # C3
 22n
 
 # R1 Treble pot
-200k
+220k
 
 # R2 Bass pot
 1M
 
 # R3 Middle pot
-20k
+22k
 
 # R4
-47k
+33k
 
 end

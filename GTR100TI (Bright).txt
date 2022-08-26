@@ -23,6 +23,18 @@ v
 # Ck, F
 680n
 
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+2.7k
+
+# R2
+2.7k
+
+# C1
+47p
+
 # ------------------------- RC High Pass Filter -------------------------
 hprc
 
@@ -36,13 +48,14 @@ hprc
 g2
 
 # C1, Bright switch
+# ON > 470p
 470p
 
 # R1
 470k
 
 # C2 Bright cap
-1p
+470p
 
 # R2 Gain pot
 1M
@@ -76,8 +89,8 @@ hprc
 940k
 
 # C, F
-# Bass switch; 22n-ON, 2-OFF
-2n
+# Bass switch; 22n-ON, 2.2n-OFF
+2.2n
 
 # ------------------------- Resistive Divider -------------------------
 rd

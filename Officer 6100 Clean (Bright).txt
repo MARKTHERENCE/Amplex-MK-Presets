@@ -32,7 +32,7 @@ ts
 100n
 
 # C3
-# Mid Shift; 22n > 11n
+# Mid Shift; Cap parallel formula
 22n
 
 # R1 Treble pot
@@ -47,25 +47,28 @@ ts
 # R4
 100k
 
-# ------------------------- Bright Switch -------------------------
-# ------------------------- RC High Pass Filter -------------------------
-hprc
-
-# R, Ohms
-2.2M
-
-# C, F
-120p
-
 # ------------------------- Gain Type 1 -------------------------
 g1
+
+# ------------------------- Low Shelf Filter -------------------------
+# Bright
+ls
+
+# R1
+2.2M
+
+# R2
+2.2M
+
+# C1
+120p
 
 # ------------------------- Valve Stage 1B -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-100k
+220k
 
 # Rp, Ohms
 100k
@@ -110,6 +113,6 @@ rd
 47k
 
 # ------------------------- Divider -------------------------
-d, 4
+d, 5
 
 end

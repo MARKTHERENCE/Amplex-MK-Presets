@@ -32,7 +32,7 @@ ts
 100n
 
 # C3
-# Mid Shift; 22n > 11n
+# Mid Shift; Cap parallel formula
 11n
 
 # R1 Treble pot
@@ -55,7 +55,7 @@ g1
 v
 
 # Rg, Ohms
-100k
+220k
 
 # Rp, Ohms
 100k
@@ -100,6 +100,6 @@ rd
 47k
 
 # ------------------------- Divider -------------------------
-d, 4
+d, 5
 
 end
