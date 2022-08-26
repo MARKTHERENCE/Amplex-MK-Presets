@@ -9,7 +9,7 @@ vp
 v
 
 # Rg, Ohms
-33k
+9.1k
 
 # Rp, Ohms
 100k
@@ -76,10 +76,14 @@ v
 hprc
 
 # R, Ohms
-150k
+# May vary from 33k and up
+# Recommended; 56k or 68k
+68k
 
 # C, F
-0.002u
+# May vary from 0.001uF to 0.01uF
+# Recommended; 0.002uF to 0.0047uF
+0.0047u
 
 # ------------------------- Valve Stage 3 -------------------------
 # Caution! High output level!

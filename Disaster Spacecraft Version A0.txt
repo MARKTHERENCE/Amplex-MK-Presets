@@ -1,4 +1,4 @@
-# Amplex V5.0 - Disaster West
+# Amplex V5.0 - Disaster Spacecraft Version A0
 
 # ------------------------- Plate Voltage -------------------------
 vp
@@ -27,7 +27,7 @@ v
 ts
 
 # C1
-50p
+500p
 
 # C2
 0.022u
@@ -36,7 +36,7 @@ ts
 0.022u
 
 # R1 Treble pot
-1M
+250k
 
 # R2 Bass pot
 250k
@@ -50,28 +50,11 @@ ts
 # ------------------------- Gain Type 1 -------------------------
 g1
 
-# ------------------------- Low Shelf Filter -------------------------
-# Bright Switch
-ls
-
-# R1
-1M
-
-# R2
-1M
-
-# C1
-# Switch Up - 500pF
-# Switch Down - 100pF
-100p
-
 # ------------------------- Valve Stage 2 -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-# Possibly used to control oscillations on SOME amps.
-# 820 to 2.2k
 820
 
 # Rp, Ohms
@@ -84,28 +67,24 @@ v
 1
 
 # Ck, F
-22u
+220u
 
 # ------------------------- RC High Pass Filter -------------------------
-# Used to tweak tone.
 hprc
 
 # R, Ohms
-# May vary from 33k and up
-# Recommended; 56k or 68k
-68k
+100k
 
 # C, F
-# May vary from 0.001uF to 0.01uF
-# Recommended; 0.002uF to 0.0047uF
-0.0047u
+# 0.001uF poly + 0.001uF ceramic
+0.002u
 
-# ------------------------- Valve Stage 3 -------------------------
+# ------------------------- Valve Stage 2 -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-820
+150k
 
 # Rp, Ohms
 100k

@@ -1,0 +1,14 @@
+Create: 10:21:13 AM
+12:00:00 AM | Before ReadState
+12:00:00 AM | After ReadState
+12:00:00 AM | End ReadState
+12:00:00 AM |  Opcode: effOpen Index: 0 Value: 0 Single: 0
+12:00:00 AM | HostCallOpen
+12:00:00 AM |  Opcode: effGetPlugCategory Index: 0 Value: 0 Single: 0
+12:00:00 AM | HostCallGetPlugCategory
+12:00:00 AM |  Opcode: effGetVendorString Index: 0 Value: 0 Single: 0
+12:00:00 AM | HostCallGetVendorString
+12:00:00 AM |  Opcode: effGetEffectName Index: 0 Value: 0 Single: 0
+12:00:00 AM | HostCallGetEffectName
+12:00:00 AM |  Opcode: effClose Index: 0 Value: 0 Single: 0
+12:00:00 AM | HostCallClose
