@@ -16,6 +16,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Bogner Triple Giant
 - Cameron CCV (2007, rev1)
 - Fender Bassman 5F6-A
+- Fender Machete
 - Fortin "Cali Mod"
 - Hiwatt DR103
 - Hughes & Kettner Triamp
