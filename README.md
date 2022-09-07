@@ -15,6 +15,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - AX84 P1 Single-Ended Lead
 - Bogner Triple Giant
 - Cameron CCV (2007, rev1)
+- Fender '86 Red Knob Dual Showman
 - Fender Bassman 5F6-A
 - Fender Machete
 - Fortin "Cali Mod"
