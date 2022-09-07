@@ -1,0 +1,86 @@
+# Amplex V5.0 - Guard '86 Crimson Entertainer
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+# Pull Mid Cut; 250pF > 120pF
+120p
+
+# C2
+0.1u
+
+# C3
+0.047u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+250k
+
+# R3 Middle pot
+10k
+
+# R4
+100k
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+47k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+470k
+
+# C, F
+0.022u
+
+# ------------------------- Divider -------------------------
+d
+50
+
+end

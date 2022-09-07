@@ -1,0 +1,179 @@
+# Amplex V5.0 - Guard '86 Crimson Entertainer
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+# Pull Mid Boost; 250pF > 750pF
+250p
+
+# C2
+0.1u
+
+# C3
+0.047u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+250k
+
+# R3 Middle pot
+25k
+
+# R4
+100k
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+# Pull Treble Boost
+ls
+
+# R1
+1M
+
+# R2
+1M
+
+# C1
+50p
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+47k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+# Pull Bass Boost; 0.68u > 22u
+0.68u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+620k
+
+# C, F
+0.0068u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+470k
+
+# R2
+150k
+
+# ------------------------- Low Shelf Filter -------------------------
+# Pull Treble Boost
+ls
+
+# R1
+470k
+
+# R2
+470k
+
+# C1
+250p
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+47k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+# Pull Bass Boost; 0.68u > 22u
+0.68u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+147k
+
+# C, F
+0.047u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+100k
+
+# R2
+47k
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+100k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+3.3k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- Divider -------------------------
+d
+150
+
+end
