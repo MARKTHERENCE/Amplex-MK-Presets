@@ -63,7 +63,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 ## CAUTION!
 There may be cases where some of the presets will not work correctly, it is largely in part of a bug within Amplex's oversampling feature.
 
-A workaround for this is to set the oversampling to 8x only (if you have touched the oversampling settings prior), and restart the plugin.
+A workaround for this is to set the oversampling to 8x* only (if you have touched the oversampling settings prior), and restart the plugin.
+*In some cases, other presets may require higher or lower oversampling rates. Please experiment with them until any of the presets function properly.
 
 # Special Thanks
 - [StateOfMercury]( https://www.youtube.com/c/StateOfMercury ) and [【ブギウギ】]( https://soundcloud.com/funnyfaceman ) for indirectly inspiring me to write these presets in the first place.
