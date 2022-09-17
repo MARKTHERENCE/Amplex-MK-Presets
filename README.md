@@ -18,6 +18,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Fender '86 Red Knob Dual Showman
 - Fender Bassman 5F6-A
 - Fender Machete
+- Fender Prosonic
 - Filmosound 385
 - Fortin "Cali Mod"
 - Hiwatt DR103
