@@ -9,6 +9,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - [NaLex PowerBox]( https://nalexsoft.blogspot.com/2020/05/powerbox-poweramp.html )
 
 # List of Amp Models
+- Ampeg VT-40
 - AX84 P1
 - AX84 P1 eXtreme
 - AX84 P1 Hi-Octane
@@ -23,6 +24,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Fortin "Cali Mod"
 - Hiwatt DR103
 - Hughes & Kettner Triamp
+- Kitty Hawk Junior Series I
+- Kitty Hawk Quattro
 - Laney AOR 100 Series II
 - Laney GC30V
 - Laney GH100L
