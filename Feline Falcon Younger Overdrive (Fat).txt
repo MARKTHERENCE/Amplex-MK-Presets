@@ -1,0 +1,142 @@
+# Amplex V1.0 - Feline Falcon Younger
+
+# ------------------------- Plate Voltage -------------------------
+vp
+220
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+100k
+
+# R2
+100k
+
+# C1
+470p
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.0038u
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+330k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.027u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+510k
+
+# R2
+510k
+
+# C1
+680p
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d
+100
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+# Fat Switch; 250p + 250p
+500p
+
+# C2
+0.047u
+
+# C3
+0.027u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+# Mid Cut; 25k > 10k
+25k
+
+# R4
+33k
+
+end
