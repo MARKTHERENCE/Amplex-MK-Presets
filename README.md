@@ -9,8 +9,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - [NaLex PowerBox]( https://nalexsoft.blogspot.com/2020/05/powerbox-poweramp.html )
 
 # List of Amp Models
-- Ampeg VT-40 1971
-- Ampeg V2, VT-40, V4, VT-22 1976 (Distortion Model)
+- Ampeg V4, 1970 (1971 VT-40 also shares the same preamp circuit)
+- Ampeg V2, VT-40, V4, VT-22 Distortion Model, 1976
 - AX84 P1
 - AX84 P1 eXtreme
 - AX84 P1 Hi-Octane
