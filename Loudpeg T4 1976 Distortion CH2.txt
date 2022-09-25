@@ -1,0 +1,143 @@
+# Amplex V1.0 - Loudpeg T4 1976 Distortion
+
+# NOTE!!
+# Midrange control is not implemented. It can be simulated by an equalizer after the amplifier.
+# Recommended EQ VST of choice - ReaEQ
+
+# Three ranges to choose from.
+# 1) 300 Hz, +/- 20dB
+# 2) 800 Hz, +/- 20dB
+# 3) 3k Hz, +/- 20dB
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1k
+
+# Rp, Ohms
+120k
+
+# Rk, Ohms
+1.2k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+0.47u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+500k
+
+# C
+0.047u
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+500k
+
+# Rp, Ohms
+68k
+
+# Rk, Ohms
+3.3k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Tonestack Type 2 -------------------------
+ts2
+
+# C1
+0.01u
+
+# C2
+0.001u
+
+# C3
+0.01u
+
+# C4
+470p
+
+# C5
+0.0047u
+
+# R1
+220k
+
+# R2
+22k
+
+# R3
+120k
+
+# R4 Load
+1M
+
+# Rb Bass pot
+1M
+
+# Rt Treble pot
+1M
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.001u
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+120k
+
+# Rk, Ohms
+2.2k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+470k
+
+# C
+0.002u
+
+# ------------------------- Divider -------------------------
+d
+50
+
+end
