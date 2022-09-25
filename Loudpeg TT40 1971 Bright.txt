@@ -1,4 +1,4 @@
-# Amplex V1.0 - Loudpeg TT40
+# Amplex V1.0 - Loudpeg TT40 1971
 
 # NOTE!!
 # Midrange control is not implemented. It can be simulated by an equalizer after the amplifier.
@@ -27,7 +27,7 @@ hprc
 v
 
 # Rg, Ohms
-220k
+1k
 
 # Rp, Ohms
 390k
@@ -135,7 +135,7 @@ hprc
 v
 
 # Rg, Ohms
-120k
+1M
 
 # Rp, Ohms
 220k
