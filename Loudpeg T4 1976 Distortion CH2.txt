@@ -6,7 +6,7 @@
 
 # Three ranges to choose from.
 # 1) 300 Hz, +/- 20dB
-# 2) 800 Hz, +/- 20dB
+# 2) 1k Hz, +/- 20dB
 # 3) 3k Hz, +/- 20dB
 
 # ------------------------- Plate Voltage -------------------------
