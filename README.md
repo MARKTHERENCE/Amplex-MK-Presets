@@ -27,6 +27,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Hughes & Kettner Triamp
 - Kitty Hawk Junior Series I
 - Kitty Hawk Quattro
+- Krank Krankenstein
+- Krank Chadwick 50w
 - Laney AOR 100 Series II
 - Laney GC30V
 - Laney GH100L
