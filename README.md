@@ -65,6 +65,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Trainwreck Express/Liverpool
 - Trainwreck Rocket
 - Tube Works RT-2100
+- Violet Delta Fuzz (original preset)
 - Vox AC30 Top Boost (Silver Jubilee/S.S. Red)
 - Vox AC30 Top Boost (Reissue)
 - Yamaha T100
@@ -79,3 +80,4 @@ A workaround for this is to set the oversampling to 8x* only (if you have touche
 - [StateOfMercury]( https://www.youtube.com/c/StateOfMercury ) and [【ブギウギ】]( https://soundcloud.com/funnyfaceman ) for indirectly inspiring me to write these presets in the first place.
 - [@sdleffler]( https://github.com/sdleffler ) for providing me a schematic of the Orange Thunderverb.
 - [@jorins]( https://github.com/jorins ) for recommending me to host these presets here.
+- "Violet Delta Fuzz" is named after [Violet Delta]( https://www.youtube.com/c/VioletDelta2 ).
