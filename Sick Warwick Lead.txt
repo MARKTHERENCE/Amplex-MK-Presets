@@ -1,0 +1,151 @@
+# Amplex V5.0 - Sick Warwick
+
+# ------------------------- Plate Voltage -------------------------
+vp
+230
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+2.7k
+
+# R2
+1M
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+2.7k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.47u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+220k
+
+# C, F
+0.022u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+220k
+
+# R2
+220k
+
+# C1
+250p
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+10k
+
+# Ck off-0, on-1
+# On = Drive Switch
+0
+
+# Ck, F
+0.47u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+0.022u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+1M
+
+# R2
+1M
+
+# C1
+250p
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d
+100
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+500p
+
+# C2
+0.022u
+
+# C3
+# Shift Switch; 0.022uF > 680pF
+0.022u
+
+# R1 Treble pot
+200k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+50k
+
+# R4
+47k
+
+end
