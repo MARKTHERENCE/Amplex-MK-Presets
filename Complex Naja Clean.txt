@@ -1,0 +1,94 @@
+# Amplex V1.0 - Complex Naja
+
+# ------------------------- Plate Voltage -------------------------
+vp
+230
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+47n
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+220p
+
+# C2
+44n
+
+# C3
+20n
+
+# R1 Treble pot
+1M
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+100k
+
+# R4
+100k
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.52k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+47n
+
+# ------------------------- Divider -------------------------
+d
+100
+
+end
