@@ -24,6 +24,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Fender Prosonic
 - Filmosound 385
 - Fortin "Cali Mod"
+- Framus Cobra
 - Henning Amps PlexRod
 - Hiwatt DR103
 - Hughes & Kettner Triamp
