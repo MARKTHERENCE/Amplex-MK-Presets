@@ -39,7 +39,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Laney Ironheart 120H
 - Laney Supergroup 100 MK1 1969 build
 - Magnatone 280a
-- Marshall 1959 SLP Jose Arredondo Mod
+- Marshall 1959 SLP "Jose Arredondo Mod"
+- Marshall 1959 SLP "Dookie Mod"
 - Marshall 6100 30th Anniversary
 - Marshall JMP 2203
 - Marshall JTM45
@@ -83,3 +84,4 @@ A workaround for this is to set the oversampling to 8x* only (if you have touche
 - [@sdleffler]( https://github.com/sdleffler ) for providing me a schematic of the Orange Thunderverb.
 - [@jorins]( https://github.com/jorins ) for recommending me to host these presets here.
 - "Violet Delta Fuzz" is named after [Violet Delta]( https://www.youtube.com/c/VioletDelta2 ).
+- Ceriatone for the [Dookie Mod layout]( http://www.ceriatone.com/british-style-plexi100-super-lead/#doc ).
