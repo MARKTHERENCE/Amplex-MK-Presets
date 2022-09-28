@@ -39,8 +39,9 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Laney Ironheart 120H
 - Laney Supergroup 100 MK1 1969 build
 - Magnatone 280a
-- Marshall 1959 SLP "Jose Arredondo Mod"
 - Marshall 1959 SLP "Dookie Mod"
+- Marshall 1959 SLP "Jose Arredondo Mod"
+- Marshall 1959RR Randy Rhoads Signature
 - Marshall 6100 30th Anniversary
 - Marshall JMP 2203
 - Marshall JTM45
