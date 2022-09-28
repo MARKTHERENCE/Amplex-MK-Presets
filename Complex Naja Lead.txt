@@ -178,10 +178,12 @@ ts
 100p
 
 # C2
-2n
+# Notch; 1nF + 1nF
+1n
 
 # C3
-20n
+# Notch; 10nF + 10nF
+10n
 
 # R1 Treble pot
 1M

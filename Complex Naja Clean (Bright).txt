@@ -40,11 +40,11 @@ ts
 
 # C2
 # Bright; 22nF + 22nF
-22n
+44n
 
 # C3
 # Bright; 10nF + 10nF
-10n
+20n
 
 # R1 Treble pot
 1M

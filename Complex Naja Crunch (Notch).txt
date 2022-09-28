@@ -188,11 +188,11 @@ ts
 
 # C2
 # Notch; 1nF + 1nF
-1n
+2n
 
 # C3
 # Notch; 10nF + 10nF
-10n
+20n
 
 # R1 Treble pot
 1M
