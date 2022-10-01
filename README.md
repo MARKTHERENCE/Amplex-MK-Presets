@@ -26,6 +26,9 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Filmosound 385
 - Fortin "Cali Mod"
 - Framus Cobra
+- Friedman Dirty Shirley
+- Friedman Small Box
+- Friedman Pink Taco
 - Henning Amps PlexRod
 - Hiwatt DR103
 - Hughes & Kettner Triamp
@@ -56,6 +59,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Orange Terror Bass
 - Orange Thunderverb
 - Peavey JSX 120
+- Philipp Frank's homemade 18 Watt Plexi
 - Pignose G40/G60
 - Randall Thrasher 50 (gain channel only)
 - Rivera Knucklehead
@@ -74,6 +78,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Violet Delta Fuzz (original preset)
 - Vox AC30 Top Boost (Silver Jubilee/S.S. Red)
 - Vox AC30 Top Boost (Reissue)
+- Weber 6M45p Amp Kit (with "Cascade mod" by me)
 - Yamaha T100
 
 ## CAUTION!
@@ -88,3 +93,4 @@ A workaround for this is to set the oversampling to 8x* only (if you have touche
 - [@jorins]( https://github.com/jorins ) for recommending me to host these presets here.
 - "Violet Delta Fuzz" is named after [Violet Delta]( https://www.youtube.com/c/VioletDelta2 ).
 - Ceriatone for the [Dookie Mod layout]( http://www.ceriatone.com/british-style-plexi100-super-lead/#doc ).
+- [Philipp Frank]( https://www.youtube.com/watch?v=eGBc4lC8zaY ) for kindly making his Plexi schematic publicly available.
