@@ -1,0 +1,70 @@
+# Amplex V1.0 - 1950's Gibson Gibsonette
+
+# ------------------------- Plate Voltage -------------------------
+vp
+117
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+82k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1500
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+20u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.022u
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1500
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+220k
+
+# C
+0.022u
+
+# ------------------------- Divider -------------------------
+d
+100
+
+end
