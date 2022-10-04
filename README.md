@@ -10,6 +10,9 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 
 # List of Amp Models
 - 1950's Gibson Gibonette
+- Ampeg B-15N Late 1960's
+- Ampeg B-15NC
+- Ampeg B-15NF
 - Ampeg V4, 1970 (1971 VT-40 also shares the same preamp circuit)
 - Ampeg V2, VT-40, V4, VT-22 Distortion Model, 1976
 - AX84 P1
