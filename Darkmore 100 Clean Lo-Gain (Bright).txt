@@ -1,0 +1,108 @@
+# Amplex V1.0 - Darkmore 100
+
+# ------------------------- Plate Voltage -------------------------
+vp
+230
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+2.2M
+
+# C
+47n
+
+# ------------------------- Low Shelf Filter -------------------------
+# Bright Switch
+ls
+
+# R1
+100k
+
+# R2
+100k
+
+# C1
+220p
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+330k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+2.2M
+
+# C
+47n
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+680p
+
+# C2
+47n
+
+# C3
+47n
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+20k
+
+# R4
+# Contour; 100k > 47k
+100k
+
+# ------------------------- Divider -------------------------
+d
+100
+
+end
