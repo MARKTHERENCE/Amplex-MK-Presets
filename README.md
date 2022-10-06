@@ -22,6 +22,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Bogner Triple Giant
 - CAE 3+ Preamp
 - Cameron CCV (2007, rev1)
+- ENGL Ritchie Blackmore Signature 100
 - Fender '86 Red Knob Dual Showman
 - Fender Bassman 5F6-A
 - Fender Machete
