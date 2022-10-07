@@ -52,8 +52,11 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall 1959RR Randy Rhoads Signature
 - Marshall 6100 30th Anniversary
 - Marshall JMP 2203
+- Marshall JMP Super Bass 100w 1992
 - Marshall JTM45
 - Marshall JVM410H
+- Marshall 200 1967 "Lead" + "Ritchie Blackmore" Cascade Mod
+- Marshall 200 1978 "Bass"
 - Marshall Silver Jubilee 2555
 - Marshall Studio Vintage SV20H
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
