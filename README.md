@@ -15,6 +15,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Ampeg B-15NF
 - Ampeg V4, 1970 (1971 VT-40 also shares the same preamp circuit)
 - Ampeg V2, VT-40, V4, VT-22 Distortion Model, 1976
+- AMT SS-11A & SS-11B
+- AMT SS-11B Atomium Amplification Mod
 - AX84 P1
 - AX84 P1 eXtreme
 - AX84 P1 Hi-Octane
@@ -102,3 +104,4 @@ A workaround for this is to set the oversampling to 8x* only (if you have touche
 - "Violet Delta Fuzz" is named after [Violet Delta]( https://www.youtube.com/c/VioletDelta2 ).
 - Ceriatone for the [Dookie Mod layout]( http://www.ceriatone.com/british-style-plexi100-super-lead/#doc ).
 - [Philipp Frank]( https://www.youtube.com/watch?v=eGBc4lC8zaY ) for kindly making his Plexi schematic publicly available.
+- [Atomium Amplification]( https://atomiumamps.tumblr.com/post/116256981951/amt-ss-11b-mods-above-is-my-new-fly-in-show-setup ) for sharing their mod and schematics for the AMT SS-11B.
