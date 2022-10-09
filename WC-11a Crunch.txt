@@ -1,0 +1,133 @@
+# Amplex V1.0 - WC-11a
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+2.2k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+470n
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+3M
+
+# C
+22n
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+3M
+
+# R2
+3M
+
+# C1
+1n
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+500k
+
+# R2
+500k
+
+# C1
+150p
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+100k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+2.2k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+100n
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+22n
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+470k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+4.8u
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+# Treble Shift; 330pF > 470pF
+330p
+
+# C2
+22n
+
+# C3
+22n
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+22k
+
+# R4
+56k
+
+# ------------------------- Divider -------------------------
+d, 100
+
+end
