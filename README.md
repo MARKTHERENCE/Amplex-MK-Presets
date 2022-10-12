@@ -29,6 +29,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Fender '86 Red Knob Dual Showman
 - Fender Bassman 5F6-A
 - Fender Machete
+- Fender MH-500 Metalhead (re-translated into tube-based stages)
 - Fender Prosonic
 - Filmosound 385
 - Fortin "Cali Mod"
