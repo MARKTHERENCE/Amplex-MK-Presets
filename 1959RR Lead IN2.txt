@@ -1,4 +1,4 @@
-# Amplex V1.0 - Dookie
+# Amplex V1.0 - 1959RR Lead
 
 # ------------------------- Plate Voltage -------------------------
 vp
