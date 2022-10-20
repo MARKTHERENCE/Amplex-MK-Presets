@@ -1,0 +1,135 @@
+# Amplex V1.0 - Steeltronix S-1000
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68.1k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.74k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.68u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+2.2n
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+475k
+
+# R2
+475k
+
+# C1
+500p
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+825
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+# Mid Shift
+# no.1; 220p
+# no.2; 500p
+# no.3; 1n
+# no.4; 2.2n
+# no.5; 3.3n
+# no.6; 4.7n
+500p
+
+# C2
+22n
+
+# C3
+22n
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+25k
+
+# R4
+33k
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+221k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+4.75k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+22n
+
+# ------------------------- Divider -------------------------
+d
+100
+
+end
