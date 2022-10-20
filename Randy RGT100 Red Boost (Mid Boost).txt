@@ -82,7 +82,7 @@ ts
 
 # C1
 # Pull Mid Boost; .002uF + .02uF
-0.002u
+0.022u
 
 # C2
 0.22u
