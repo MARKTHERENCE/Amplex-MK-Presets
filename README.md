@@ -66,6 +66,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
 - Matamp GT120
 - MESA/Boogie Stiletto Stage II
+- Metaltronix M-1000 Head
 - Orange Rockerverb
 - Orange Terror Bass
 - Orange Thunderverb
