@@ -15,6 +15,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Ampeg B-15NF
 - Ampeg V4, 1970 (1971 VT-40 also shares the same preamp circuit)
 - Ampeg V2, VT-40, V4, VT-22 Distortion Model, 1976
+- Ampeg Lee Jackson VL-502/VL-1002
 - AMT SS-11A & SS-11B
 - AMT SS-11B Atomium Amplification Mod
 - AX84 P1
