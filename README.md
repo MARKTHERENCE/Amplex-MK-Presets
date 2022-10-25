@@ -93,6 +93,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Vox AC30 Top Boost (Silver Jubilee/S.S. Red)
 - Vox AC30 Top Boost (Reissue)
 - Weber 6M45p Amp Kit (with "Cascade mod" by me)
+- Wizard Modern Classic I
 - Yamaha T100
 
 ## CAUTION!
