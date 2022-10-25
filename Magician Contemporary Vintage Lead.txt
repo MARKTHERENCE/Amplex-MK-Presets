@@ -1,0 +1,235 @@
+# Amplex V5.0 - Magician Contemporary Vintage
+
+# ------------------------- Plate Voltage -------------------------
+vp
+117
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+538k
+
+# C, F
+0.002u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+470k
+
+# R2
+68k
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+470k
+
+# R2
+470k
+
+# C1
+0.002u
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+470k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+0.02u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+100k
+
+# R2
+220k
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+100k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+10u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+220k
+
+# C, F
+0.02u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+47k
+
+# R2
+220k
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+47k
+
+# R2
+100k
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+47k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+110k
+
+# C, F
+0.1u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+100k
+
+# R2
+10k
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+220k
+
+# C, F
+0.02u
+
+# ------------------------- Valve Stage 5 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+100k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+250p
+
+# C2
+0.02u
+
+# C3
+0.02u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+25k
+
+# R4
+62k
+
+# ------------------------- Divider -------------------------
+d
+50
+
+end
