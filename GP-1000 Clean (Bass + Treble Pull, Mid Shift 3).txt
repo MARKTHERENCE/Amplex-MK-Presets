@@ -1,0 +1,106 @@
+# Amplex V1.0 - GP-1000
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68.1k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+825
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.68u
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+# Mid Shift
+# off; 220p
+# no.1; 440p
+# no.2; 1n
+# no.3; 2.2n
+# no.4; 3.3n
+# no.5; 4.7n
+2.2n
+
+# C2
+200n
+
+# C3
+# Bass Pull; 100nF > 22nF
+22n
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+250k
+
+# R3 Middle pot
+10k
+
+# R4
+100k
+
+# ------------------------- Low Shelf Filter -------------------------
+# Treble Pull
+ls
+
+# R1
+680k
+
+# R2
+680k
+
+# C1
+470p
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+680n
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+2.2n
+
+# ------------------------- Divider -------------------------
+d
+20
+
+end
