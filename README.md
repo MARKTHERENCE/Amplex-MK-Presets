@@ -30,7 +30,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Fender '86 Red Knob Dual Showman
 - Fender Bassman 5F6-A
 - Fender Machete
-- Fender MH-500 Metalhead (re-translated into tube-based stages)
+- Fender MH-500 Metalhead (re-translated into tube stages)
 - Fender Prosonic
 - Filmosound 385
 - Fortin "Cali Mod"
@@ -80,6 +80,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Randall Thrasher 50 (gain channel only)
 - Rivera Knucklehead
 - Rivera S-120/M60/M100
+- Roland JC-120 3rd Edition (re-translated into tobe stages)
 - Silvertone 1484
 - Sovtek MIG-50
 - Sovtek MIG-60
