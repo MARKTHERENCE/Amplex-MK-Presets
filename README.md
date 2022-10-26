@@ -51,6 +51,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Laney GH100TI
 - Laney Ironheart 120H
 - Laney Supergroup 100 MK1 1969 build
+= Lee Jackson Perfect Connection GP-1000 preamp
+- Lee Jackson XLS-1000
 - Magnatone 280a
 - Marshall 1959 SLP "Dookie Mod"
 - Marshall 1959 SLP "Jose Arredondo Mod"
