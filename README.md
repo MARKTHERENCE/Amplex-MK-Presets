@@ -10,6 +10,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 
 # List of Amp Models
 - 1950's Gibson Gibonette
+- 1979 Roland JC-120 "3rd Edition"
 - Ampeg B-15N Late 1960's
 - Ampeg B-15NC
 - Ampeg B-15NF
