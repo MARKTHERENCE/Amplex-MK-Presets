@@ -1,4 +1,4 @@
-# Amplex V1.0 - Early Jazz Ensemble 120
+# Amplex V1.0 - 1979 Jazz Ensemble 120 III
 
 # ------------------------- Plate Voltage -------------------------
 vp
