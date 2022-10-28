@@ -10,7 +10,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 
 # List of Amp Models
 - 1950's Gibson Gibonette
-- 1979 Roland JC-120 "3rd Edition"
+- 1979 Roland JC-120 "3rd Edition" (re-translated into tube stages)
+- 6V6 Plexi
 - Ampeg B-15N Late 1960's
 - Ampeg B-15NC
 - Ampeg B-15NF
@@ -69,6 +70,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall Studio Vintage SV20H
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
 - Matamp GT120
+- Merlin Blencowe "Ultra High Gain"
 - MESA/Boogie Stiletto Stage II
 - Metaltronix M-1000 Head
 - Orange Rockerverb
@@ -94,6 +96,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Trainwreck Rocket
 - Tube Works RT-2100
 - Violet Delta Fuzz (original preset)
+- Visio Aro Project Staalhoofd Mod
 - Vox AC30 Top Boost (Silver Jubilee/S.S. Red)
 - Vox AC30 Top Boost (Reissue)
 - Weber 6M45p Amp Kit (with "Cascade mod" by me)
