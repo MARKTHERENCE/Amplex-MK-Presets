@@ -1,0 +1,160 @@
+# Amplex V1.0 - Merlin Blencowe Ultra High Gain
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+10k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.001u
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+100k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+3.3k
+
+# Ck off-0, on-1
+# Boost
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1010k
+
+# C
+0.0022u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+680k
+
+# R2
+330k
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+680k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+2.7k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+10u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1090k
+
+# C
+0.001u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+820k
+
+# R2
+270k
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+820k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+10u
+
+# ------------------------- Divider -------------------------
+d
+20
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+220p
+
+# C2
+0.1u
+
+# C3
+0.022u
+
+# R1 Treble pot
+220k
+
+# R2 Bass pot
+220k
+
+# R3 Middle pot
+22k
+
+# R4
+100k
+
+end
