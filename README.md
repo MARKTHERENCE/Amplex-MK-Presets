@@ -102,6 +102,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Weber 6M45p Amp Kit (with "Cascade mod" by me)
 - Wizard Modern Classic I
 - Yamaha T100
+- Yerasov Hammer Head
+- Yerasov Soldier 30H
 
 ## CAUTION!
 There may be cases where some of the presets will not work correctly, it is largely in part of a bug within Amplex's oversampling feature.
