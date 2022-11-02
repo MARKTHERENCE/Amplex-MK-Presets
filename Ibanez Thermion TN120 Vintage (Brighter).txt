@@ -1,0 +1,103 @@
+# Amplex V5.0 - Ibanez Thermion TN120
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+6.8n
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+# Bright
+ls
+
+# R1
+1M
+
+# R2
+1M
+
+# C1
+# Bright; 470p
+# Brighter; 1n
+1n
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d
+50
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+680p
+
+# C2
+20n
+
+# C3
+20n
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+25k
+
+# R4
+22k
+
+end
