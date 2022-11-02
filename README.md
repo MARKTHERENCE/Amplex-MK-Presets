@@ -43,6 +43,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Henning Amps PlexRod
 - Hiwatt DR103
 - Hughes & Kettner Triamp
+- Ibanez Thermion TN120
 - Kitty Hawk Junior Series I
 - Kitty Hawk Quattro
 - Krank Krankenstein
