@@ -85,6 +85,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Rivera Knucklehead
 - Rivera S-120/M60/M100
 - Roland JC-120 3rd Edition (re-translated into tobe stages)
+- Secondary Bass/Lead (loosely based on the Sunn Beta series)
 - Silvertone 1484
 - Sovtek MIG-50
 - Sovtek MIG-60
