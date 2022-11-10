@@ -75,6 +75,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - MESA/Boogie Stiletto Stage II
 - Metaltronix M-1000 Head
 - MTA'02 (take a guess which amp this is inspired by ;) )
+- Naylor Super-Drive 60
 - Orange Rockerverb
 - Orange Terror Bass
 - Orange Thunderverb
