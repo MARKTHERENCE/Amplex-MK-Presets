@@ -68,6 +68,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall 200 1967 "Lead" + "Ritchie Blackmore" Cascade Mod
 - Marshall 200 1978 "Bass"
 - Marshall Silver Jubilee 2555
+- Marshall SL5 Slash Signature
 - Marshall Studio Vintage SV20H
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
 - Matamp GT120
