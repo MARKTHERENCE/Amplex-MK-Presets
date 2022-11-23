@@ -1,0 +1,108 @@
+# Amplex V5.0 - Officer JCO2000 DSL100
+
+# ------------------------- Plate Voltage -------------------------
+vp, 120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+4.7u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+22n
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+4.7n
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+1M
+
+# R2
+1M
+
+# C1
+470p
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+47k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d, 18
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+470p
+
+# C2
+22n
+
+# C3
+22n
+
+# R1 Treble pot
+200k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+22k
+
+# R4
+# Tone Shift; 33k > 68k
+33k
+
+end
