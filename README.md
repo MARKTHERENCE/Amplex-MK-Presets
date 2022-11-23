@@ -61,6 +61,11 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall 1959 SLP "Jose Arredondo Mod"
 - Marshall 1959RR Randy Rhoads Signature
 - Marshall 6100 30th Anniversary
+- Marshall JCM600
+- Marshall JCM800 2210
+- Marshall JCM900 4100
+- Marshall JCM2000 DSL100
+- Marshall JCM2000 TSL100
 - Marshall JMP 2203
 - Marshall JMP Super Bass 100w 1992
 - Marshall JTM45
