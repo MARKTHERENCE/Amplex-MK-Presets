@@ -27,7 +27,7 @@ v
 hprc
 
 # R, Ohms
-470k
+1M
 
 # C, F
 0.022u
