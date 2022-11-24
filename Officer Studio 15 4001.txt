@@ -1,0 +1,94 @@
+# Amplex V1.0 - Officer Studio 15 4001
+
+# ------------------------- Plate Voltage -------------------------
+vp
+220
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+33k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.68u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.005u
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+220p
+
+# C2
+0.002u
+
+# C3
+0.022u
+
+# R1 Treble pot
+220k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+100k
+
+# R4
+100k
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+33k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+470k
+
+# C
+0.01u
+
+# ------------------------- Divider -------------------------
+d
+100
+
+end
