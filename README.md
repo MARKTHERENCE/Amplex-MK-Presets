@@ -74,6 +74,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall 200 1978 "Bass"
 - Marshall Silver Jubilee 2555
 - Marshall SL5 Slash Signature
+- Marshall Studio 15 4001
 - Marshall Studio Vintage SV20H
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
 - Matamp GT120
