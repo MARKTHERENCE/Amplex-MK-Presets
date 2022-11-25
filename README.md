@@ -77,6 +77,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall Studio 15 4001
 - Marshall Studio Vintage SV20H
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
+- Marshall Vintage Modern 2266/2466
 - Matamp GT120
 - Merlin Blencowe "Ultra High Gain"
 - MESA/Boogie Stiletto Stage II
