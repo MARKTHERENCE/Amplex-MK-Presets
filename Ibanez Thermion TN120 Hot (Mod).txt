@@ -116,8 +116,8 @@ v
 100k
 
 # Rk, Ohms
-# Original value is 39k, I changed it to 10k so this stage would not overload.
-10k
+#39k
+3.3k
 
 # Ck off-0, on-1
 0
