@@ -80,6 +80,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Marshall Vintage Modern 2266/2466
 - Matamp GT120
 - Merlin Blencowe "Ultra High Gain"
+- MESA/Boogie Road King II
 - MESA/Boogie Stiletto Stage II
 - Metaltronix M-1000 Head
 - MTA'02 (take a guess which amp this is inspired by ;) )
