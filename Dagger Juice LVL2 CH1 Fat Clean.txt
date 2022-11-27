@@ -1,7 +1,7 @@
 # Amplex V5.0 - Dagger Juice LVL2
 
 # ------------------------- Plate Voltage -------------------------
-vp, 250
+vp, 240
 
 # ------------------------- Valve Stage 2A -------------------------
 # Caution! High output level!
@@ -20,47 +20,47 @@ v
 0
 
 # Ck, F
-1u
+0.68u
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
 
-# R, Ohms
-39k
-
-# C, F
-0.02u
-
-# ------------------------- Gain Type 1 -------------------------
-g1
-
-# ------------------------- Resistive Divider -------------------------
-rd
-
-# R1
-39k
-
-# R2
+# R
 1M
 
-# ------------------------- Low Shelf Filter -------------------------
-ls
+# C
+0.02u
 
-# R1
-2.2M
+# ------------------------- Gain Type 2 -------------------------
+g2
 
-# R2
-2.2M
+# C1 Pre-bright cap, F
+# CH1 Tite Clean/Crunch; 500pF
+# CH1 Fat Clean; 0.0022uF
+0.0022u
 
-# C1
-39p
+# R1 Pre-bright res, Ohms
+# CH1 Tite Clean/Crunch; 475k
+# CH1 Fat Clean; 680k
+680k
+
+# C2 Bright cap, F
+# CH1 Tite Clean; 120pF
+# CH1 Fat Clean/Crunch; 500pF
+500p
+
+# R2 Gain pot, Ohms
+1M
+
+# R3 Load, Ohms
+10M
 
 # ------------------------- Valve Stage 3A -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-39k
+2.2M
 
 # Rp, Ohms
 100k
@@ -76,9 +76,6 @@ v
 
 # ------------------------- Cathode Follower -------------------------
 cf
-
-# ------------------------- Multiplier -------------------------
-m, 2
 
 # ------------------------- Divider -------------------------
 d

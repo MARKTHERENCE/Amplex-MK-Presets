@@ -1,9 +1,9 @@
 # Amplex V5.0 - Dagger Juice LVL2
 
 # ------------------------- Plate Voltage -------------------------
-vp, 250
+vp, 240
 
-# ------------------------- Valve Stage 1B -------------------------
+# ------------------------- Valve Stage 2A -------------------------
 # Caution! High output level!
 v
 
@@ -11,10 +11,10 @@ v
 68k
 
 # Rp, Ohms
-100k
+220k
 
 # Rk, Ohms
-2.7k
+1.5k
 
 # Ck off-0, on-1
 0
@@ -22,49 +22,46 @@ v
 # Ck, F
 0.68u
 
-# ------------------------- RC Hi Pass Filter -------------------------
+# ------------------------- RC High Pass Filter -------------------------
 hprc
 
-# R, Ohms
-475k
+# R
+1M
 
-# C, F
+# C
 0.02u
 
-# ------------------------- Low Shelf Filter -------------------------
-ls
+# ------------------------- Gain Type 2 -------------------------
+g2
 
-# R1
-475k
+# C1 Pre-bright cap, F
+# CH2 Crunch/Tite Gain; 500pF
+# CH2 Fluid-Drive; 0.0022uF
+0.0022u
 
-# R2
-475k
+# R1 Pre-bright res, Ohms
+# CH2 Crunch/Tite Gain; 475k
+# CH2 Fluid-Drive; 680k
+860k
 
-# C1
-500p
-
-# ------------------------- Gain Type 1 -------------------------
-g1
-
-# ------------------------- Low Shelf Filter -------------------------
-ls
-
-# R1
-1M
-
-# R2
-1M
-
-# C1
+# C2 Bright cap, F
+# CH2 Crunch; 180pF
+# CH2 Tite Gain/Fluid-Drive; 750pF
 750p
+
+# R2 Gain pot, Ohms
+1M
+
+# R3 Load, Ohms
+10M
 
 # ------------------------- RC Low Pass Filter -------------------------
 lprc
 
-# R, Ohms
+# R
 475k
 
-# C, F
+# C
 20p
 
 # ------------------------- Valve Stage 1A -------------------------
@@ -89,10 +86,10 @@ v
 # ------------------------- RC High Pass Filter -------------------------
 hprc
 
-# R, Ohms
-470k
+# R
+1M
 
-# C, F
+# C
 0.002u
 
 # ------------------------- Low Shelf Filter -------------------------
@@ -107,15 +104,6 @@ ls
 # C1
 500p
 
-# ------------------------- Resistive Divider -------------------------
-rd
-
-# R1
-470k
-
-# R2
-1M
-
 # ------------------------- Valve Stage 2B -------------------------
 # Caution! High output level!
 v
@@ -127,7 +115,7 @@ v
 100k
 
 # Rk, Ohms
-#39k
+# 39k
 3.3k
 
 # Ck off-0, on-1
@@ -136,25 +124,13 @@ v
 # Ck, F
 1u
 
-# ------------------------- Low Shelf Filter -------------------------
-ls
-
-# R1
-100k
-
-# R2
-100k
-
-# C1
-0.001u
-
 # ------------------------- RC High Pass Filter -------------------------
 hprc
 
-# R, Ohms
+# R
 330k
 
-# C, F
+# C
 0.02u
 
 # ------------------------- Valve Stage 3A -------------------------
