@@ -46,6 +46,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Ibanez Thermion TN120
 - Kitty Hawk Junior Series I
 - Kitty Hawk Quattro
+- Koch Multitone I
 - Krank Krankenstein
 - Krank Chadwick 50w
 - Laney AOR 100 Series II
