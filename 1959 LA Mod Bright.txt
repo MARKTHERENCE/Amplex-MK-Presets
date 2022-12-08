@@ -15,7 +15,8 @@ v
 200k
 
 # Rk, Ohms
-27k
+#27k
+2.7k
 
 # Ck off-0, on-1
 1
