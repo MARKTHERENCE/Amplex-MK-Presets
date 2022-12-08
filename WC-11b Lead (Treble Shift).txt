@@ -91,7 +91,8 @@ v
 100k
 
 # Rk, Ohms
-15k
+#15k
+1.5k
 
 # Ck off-0, on-1
 0
