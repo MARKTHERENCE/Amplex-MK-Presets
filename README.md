@@ -24,6 +24,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - AX84 P1 eXtreme
 - AX84 P1 Hi-Octane
 - AX84 P1 Single-Ended Lead
+- B-52 AT-100
 - Bogner Triple Giant
 - CAE 3+ Preamp
 - Cameron CCV (2007, rev1)
@@ -44,6 +45,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Hiwatt DR103
 - Hughes & Kettner Triamp
 - Ibanez Thermion TN120
+- Jansen Amplifiers Gunn 50
 - Kitty Hawk Junior Series I
 - Kitty Hawk Quattro
 - Koch Multitone I
@@ -97,7 +99,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Randall Thrasher 50 (gain channel only)
 - Rivera Knucklehead
 - Rivera S-120/M60/M100
-- Roland JC-120 3rd Edition (re-translated into tobe stages)
+- Roland JC-120 3rd Edition (re-translated into tube stages)
 - Secondary Bass/Lead (loosely based on the Sunn Beta series)
 - Silvertone 1484
 - Sovtek MIG-50
