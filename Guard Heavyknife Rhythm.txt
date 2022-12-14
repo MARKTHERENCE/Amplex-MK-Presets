@@ -158,7 +158,6 @@ ts
 5k
 
 # R2 Bass pot
-# Notch; +50k > +50k
 5k
 
 # R3 Middle pot
