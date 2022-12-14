@@ -84,13 +84,13 @@ v
 100k
 
 # Rk, Ohms
-10k
+3.3k
 
 # Ck off-0, on-1
 1
 
 # Ck, F
-2.2u
+1u
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
