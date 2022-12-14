@@ -92,9 +92,11 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Orange Rockerverb
 - Orange Terror Bass
 - Orange Thunderverb
+- Peavey Classic 20
 - Peavey JSX 120
 - Philipp Frank's homemade 18 Watt Plexi
 - Pignose G40/G60
+- PRS SE 50
 - Randall RGT100
 - Randall Thrasher 50 (gain channel only)
 - Rivera Knucklehead
