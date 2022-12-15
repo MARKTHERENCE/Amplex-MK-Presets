@@ -111,6 +111,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Splawn Nitro
 - Splawn Quick Rod
 - Sunn Model T
+- Supro 1690T
 - Trainwreck Express/Liverpool
 - Trainwreck Rocket
 - Tube Works RT-2100
