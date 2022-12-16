@@ -30,6 +30,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Cameron CCV (2007, rev1)
 - ENGL E762/E765 Retro Tube 100
 - ENGL Ritchie Blackmore Signature 100
+- EVH 5150 III
 - Fender '86 Red Knob Dual Showman
 - Fender Bassman 5F6-A
 - Fender Machete
