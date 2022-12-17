@@ -27,7 +27,7 @@ Image of the back panel (accessed via the right arrow)
 
 This is an oversimplification of the explanations provided in the manual.
 
-## Nalex PowerBox
+## NaLex PowerBox
 
 ![PowerBox_UI](https://user-images.githubusercontent.com/14950643/208229920-6ad9e161-2bbe-488e-91b4-644cbdee70b7.png)
 
