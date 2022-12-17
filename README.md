@@ -39,41 +39,69 @@ The output is quieter than the preamp itself so I had to set the Input knob's va
 - ***Asym*** affects the dynamic behavior of the power amp. Setting to 0 will result in a solid state-like power amp sound, while cranking it to full will result in a more non-linear sound similar to standard tube amps.
 
 # List of Amp Models
+This collection covers a wide range of amplifier types based on gain amount, voicing, etc. This is never set in stone as I may add more amp models at any given time.
+
+## Clean to Crunch
 - 1950's Gibson Gibonette
 - 1979 Roland JC-120 "3rd Edition" (re-translated into tube stages)
 - 6V6 Plexi
-- Ampeg B-15N Late 1960's
-- Ampeg B-15NC
-- Ampeg B-15NF
+- AX84 P1
+- AX84 P1 eXtreme
+- AX84 P1 Hi-Octane
+- AX84 P1 Single-Ended Lead
+- Cameron CCV (2007, rev1)
+- Fender Bassman 5F6-A
+- Filmosound 385
+- Fortin "Cali Mod"
+- Hiwatt DR103
+- Laney GH100TI Tony Iommi Signature
+- Laney Supergroup 100 MK1 1969 build
+- Magnatone 280a
+- Marshall 1959 SLP "Dookie Mod"
+- Marshall JMP 2203
+- Marshall JTM45
+- Marshall 200 1967 "Lead"
+- Marshall Studio 15 4001
+- Marshall Studio Vintage SV20H
+- Matamp GT120
+- Pignose G40
+- Pignose G60
+- Sovtek MIG-50
+- Sovtek MIG-60
+- Sovtek MIG-100H
+- Trainwreck Express/Liverpool
+- Trainwreck Rocket
+- Yerasov Hammer Head
+
+## High Gain and Beyond
+- Friedman Dirty Shirley
+- Friedman Pink Taco
+- Marshall 1959 SLP "Jose Arredondo Mod"
+- Marshall 200 1967 "Lead" ("Ritchie Blackmore" Cascade Mod)
+- Merlin Blencowe "Ultra High Gain"
+- Secondary Lead (loosely based on the Sunn Beta series)
+- Violet Delta Fuzz (original preset)
+- Visio Aro Project Staalhoofd Mod
+
+## Multi Channel
 - Ampeg V4, 1970 (1971 VT-40 also shares the same preamp circuit)
 - Ampeg V2, VT-40, V4, VT-22 Distortion Model, 1976
 - Ampeg Lee Jackson VL-502/VL-1002
 - AMT SS-11A & SS-11B
 - AMT SS-11B Atomium Amplification Mod
-- AX84 P1
-- AX84 P1 eXtreme
-- AX84 P1 Hi-Octane
-- AX84 P1 Single-Ended Lead
 - B-52 AT-100
 - Bogner Triple Giant
 - CAE 3+ Preamp
-- Cameron CCV (2007, rev1)
 - ENGL E762/E765 Retro Tube 100
 - ENGL Ritchie Blackmore Signature 100
 - EVH 5150 III
 - Fender '86 Red Knob Dual Showman
-- Fender Bassman 5F6-A
 - Fender Machete
 - Fender MH-500 Metalhead (re-translated into tube stages)
 - Fender Prosonic
-- Filmosound 385
-- Fortin "Cali Mod"
 - Framus Cobra
-- Friedman Dirty Shirley
 - Friedman Small Box
-- Friedman Pink Taco
 - Henning Amps PlexRod
-- Hiwatt DR103
 - Hughes & Kettner Triamp
 - Ibanez Thermion TN120
 - Jansen Amplifiers Gunn 50
@@ -85,14 +113,9 @@ The output is quieter than the preamp itself so I had to set the Input knob's va
 - Laney AOR 100 Series II
 - Laney GC30V
 - Laney GH100L
-- Laney GH100TI
 - Laney Ironheart 120H
-- Laney Supergroup 100 MK1 1969 build
 - Lee Jackson Perfect Connection GP-1000 preamp
 - Lee Jackson XLS-1000
-- Magnatone 280a
-- Marshall 1959 SLP "Dookie Mod"
-- Marshall 1959 SLP "Jose Arredondo Mod"
 - Marshall 1959RR Randy Rhoads Signature
 - Marshall 6100 30th Anniversary
 - Marshall JCM600
@@ -100,60 +123,49 @@ The output is quieter than the preamp itself so I had to set the Input knob's va
 - Marshall JCM900 4100
 - Marshall JCM2000 DSL100
 - Marshall JCM2000 TSL100
-- Marshall JMP 2203
-- Marshall JMP Super Bass 100w 1992
-- Marshall JTM45
 - Marshall JVM410H
-- Marshall 200 1967 "Lead" + "Ritchie Blackmore" Cascade Mod
-- Marshall 200 1978 "Bass"
 - Marshall Silver Jubilee 2555
 - Marshall SL5 Slash Signature
-- Marshall Studio 15 4001
-- Marshall Studio Vintage SV20H
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
 - Marshall Vintage Modern 2266/2466
-- Matamp GT120
-- Merlin Blencowe "Ultra High Gain"
 - MESA/Boogie Lone Star/Lone Star Special
 - MESA/Boogie Road King II
 - MESA/Boogie Stiletto Stage II
 - Metaltronix M-1000 Head
-- MTA'02 (take a guess which amp this is inspired by ;) )
+- MTA'02 (inspired by PRS MT15)
 - Naylor Super-Drive 60
 - Orange Rockerverb
-- Orange Terror Bass
 - Orange Thunderverb
 - Peavey Classic 20
 - Peavey JSX 120
 - Philipp Frank's homemade 18 Watt Plexi
-- Pignose G40/G60
 - PRS SE 50
 - Randall RGT100
 - Randall Thrasher 50 (gain channel only)
 - Rivera Knucklehead
 - Rivera S-120/M60/M100
-- Secondary Bass/Lead (loosely based on the Sunn Beta series)
 - Silvertone 1484
-- Sovtek MIG-50
-- Sovtek MIG-60
-- Sovtek MIG-100H
-- Sovtek MIG-500 "Bassov Blues Boy"
 - Splawn Nitro
 - Splawn Quick Rod
 - Sunn Model T
 - Supro 1690T
-- Trainwreck Express/Liverpool
-- Trainwreck Rocket
 - Tube Works RT-2100
-- Violet Delta Fuzz (original preset)
-- Visio Aro Project Staalhoofd Mod
 - Vox AC30 Top Boost (Silver Jubilee/S.S. Red)
 - Vox AC30 Top Boost (Reissue)
 - Weber 6M45p Amp Kit (with "Cascade mod" by me)
 - Wizard Modern Classic I
 - Yamaha T100
-- Yerasov Hammer Head
 - Yerasov Soldier 30H
+
+## Bass Amps
+- Ampeg B-15N Late 1960's
+- Ampeg B-15NC
+- Ampeg B-15NF
+- Marshall JMP Super Bass 100w 1992
+- Marshall 200 1978 "Bass"
+- Orange Terror Bass
+- Secondary Bass (loosely based on the Sunn Beta series)
+- Sovtek MIG-500 "Bassov Blues Boy"
 
 # Troubleshooting
 There are a few notable bugs that may cause Amplex to work or sound as intended. The ones mentioned below are the most prominent ones.
