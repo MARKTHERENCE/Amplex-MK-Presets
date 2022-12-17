@@ -10,6 +10,7 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 
 # Setting up the power amp
 (Note that this is just an oversimplification of the technological explanations behind power amps to make this easier to explain.)
+
 Power amps are very crucial in the overall sound because they add coloration and other aspects depending on the type. We will only cover tube-based power amps in this scenario as that's the kind of sound that people usually think "sounds realistic", when what it actually does is add more saturation and harmonic content to the preamp and certain low/high frequencies are accentuated due to the non-linear nature of tubes.
 
 The settings will cover both TPA-1 and PowerBox. Recommended settings are provided in the screenshots below, with explanations for each control knob.
