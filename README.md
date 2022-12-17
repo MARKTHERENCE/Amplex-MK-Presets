@@ -36,7 +36,7 @@ The output is quieter than the preamp itself so I had to set the Input knob's va
 - ***Power*** adds more compression to the preamp, similar to the Sagging knob found in TPA-1
 - The ***Freq*** knobs below ***Low*** and ***Presence*** allow you to adjust the frequencies that both knobs would affect. They're set to 85Hz and 1kHz, respectively.
 - ***Bias*** functions the same as the one found in TPA-1. Setting the knob to 0 provides the hottest signal, and higher values will provide colder and lower output.
-- ***Asym*** affects the dynamic behavior of the power amp. Setting to 0 will result in a solid state-like power amp sound, while cranking it to full will result in a more non-linear similar to standard tube amps.
+- ***Asym*** affects the dynamic behavior of the power amp. Setting to 0 will result in a solid state-like power amp sound, while cranking it to full will result in a more non-linear sound similar to standard tube amps.
 
 # List of Amp Models
 - 1950's Gibson Gibonette
