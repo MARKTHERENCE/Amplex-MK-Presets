@@ -8,6 +8,35 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - [Ignite Amps TPA-1]( https://www.igniteamps.com/#tpa-1 )
 - [NaLex PowerBox]( https://nalexsoft.blogspot.com/2020/05/powerbox-poweramp.html )
 
+# Setting up the power amp
+(Note that this is just an oversimplification of the technological explanations behind power amps to make this easier to explain.)
+Power amps are very crucial in the overall sound because they add coloration and other aspects depending on the type. We will only cover tube-based power amps in this scenario as that's the kind of sound that people usually think "sounds realistic", when what it actually does is add more saturation and harmonic content to the preamp and certain low/high frequencies are accentuated due to the non-linear nature of tubes.
+
+The settings will cover both TPA-1 and PowerBox. Recommended settings are provided in the screenshots below, with explanations for each control knob.
+
+## Ignite Amps TPA-1
+Image of the back panel (accessed via the right arrow)
+
+![TPA-1_BackPanel](https://user-images.githubusercontent.com/14950643/208229905-fff65d6d-2ef5-40cc-b794-45e47218b327.png)
+
+- ***Bias*** changes how much current is drawn to the power tubes. For standard/real world operation, keep it in its default range.
+- ***Sagging*** allows you to dial the power amp compression to sound transparent and modern, or smooth and compressed similar to vintage amp tones. Set the knob to 2-3 for modern rectifier tones, 5 and above for vintage sag.
+- ***Tubes*** gives you 3 type of power tubes to choose from. EL34 is common for British-voiced amps, 6L6 for American-voiced (California), and KT88 for German-voiced.
+- ***Feedback*** makes the tubes either sound more linear or very rich with harmonics at the expense of the ***Depth*** and ***Presence*** knobs. For standard use, leave the knob at full for the Depth/Presence knobs to work as intended.
+- ***Resonance*** will add a peak boost in the low frequencies and a shelf boost in the highs. This may vary greatly depending on the Impulse Responses that you use. But as a general rule, setting the knob at 5 is the common setting for real world amps, but cranking the knob will provide a more modern and scooped tone.
+
+This is an oversimplification of the explanations provided in the manual.
+
+## Nalex PowerBox
+
+![PowerBox_UI](https://user-images.githubusercontent.com/14950643/208229920-6ad9e161-2bbe-488e-91b4-644cbdee70b7.png)
+
+The output is quieter than the preamp itself so I had to set the Input knob's value to 1.50 to compensate.
+- ***Power*** adds more compression to the preamp, similar to the Sagging knob found in TPA-1
+- The ***Freq*** knobs below ***Low*** and ***Presence*** allow you to adjust the frequencies that both knobs would affect. They're set to 85Hz and 1kHz, respectively.
+- ***Bias*** functions the same as the one found in TPA-1. Setting the knob to 0 provides the hottest signal, and higher values will provide colder and lower output.
+- ***Asym*** affects the dynamic behavior of the power amp. Setting to 0 will result in a solid state-like power amp sound, while cranking it to full will result in a more non-linear similar to standard tube amps.
+
 # List of Amp Models
 - 1950's Gibson Gibonette
 - 1979 Roland JC-120 "3rd Edition" (re-translated into tube stages)
@@ -125,11 +154,18 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Yerasov Hammer Head
 - Yerasov Soldier 30H
 
-## CAUTION!
+# Troubleshooting
+There are a few notable bugs that may cause Amplex to work or sound as intended. The ones mentioned below are the most prominent ones.
+
+## Oversampling
 There may be cases where some of the presets will not work correctly, it is largely in part of a bug within Amplex's oversampling feature.
 
 A workaround for this is to set the oversampling to 8x* only (if you have touched the oversampling settings prior), and restart the plugin.
 *In some cases, other presets may require higher or lower oversampling rates. Please experiment with them until any of the presets function properly.
+
+## ASIO Drivers
+***This has only been tested in REAPER so I am not sure if this problem is applicable to other DAWs.***
+There are instances where some high gain presets sound too overcompressed to the point of being unusable. This issue seems to be exclusive to ASIO as the issue is not present with other audio devices. (Tested with WASAPI and DirectSound.) As of now, the only workaround for this is to switch to WASAPI as the DAW's main audio device.
 
 # Special Thanks
 - [StateOfMercury]( https://www.youtube.com/c/StateOfMercury ) and [【ブギウギ】]( https://soundcloud.com/funnyfaceman ) for indirectly inspiring me to write these presets in the first place.
