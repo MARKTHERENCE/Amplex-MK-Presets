@@ -102,7 +102,6 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - Randall Thrasher 50 (gain channel only)
 - Rivera Knucklehead
 - Rivera S-120/M60/M100
-- Roland JC-120 3rd Edition (re-translated into tube stages)
 - Secondary Bass/Lead (loosely based on the Sunn Beta series)
 - Silvertone 1484
 - Sovtek MIG-50
