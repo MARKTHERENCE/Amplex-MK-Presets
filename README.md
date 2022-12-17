@@ -8,6 +8,8 @@ Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GU
 - [Ignite Amps TPA-1]( https://www.igniteamps.com/#tpa-1 )
 - [NaLex PowerBox]( https://nalexsoft.blogspot.com/2020/05/powerbox-poweramp.html )
 
+This is an intentional decision as the impedance curve that is baked in Amplex's own power amp section might be undesirable for some who prefer to hear the full frequency range of the preamp circuits.
+
 # Setting up the power amp
 (Note that this is just an oversimplification of the technological explanations behind power amps to make this easier to explain.)
 
