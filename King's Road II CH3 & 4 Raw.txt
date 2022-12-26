@@ -9,7 +9,7 @@
 # CH3 & 4 share the exact same gain stage, only the Presence controls are different
 # TPA-1 Feedback knob can achieve that same effect
 # CH3 - set Feedback knob to 10 
-# CH4 - set Feedback knob to 1
+# CH4 - set Feedback knob to 5
 
 # ------------------------- Plate Voltage -------------------------
 vp
