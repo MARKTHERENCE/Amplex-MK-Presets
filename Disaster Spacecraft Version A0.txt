@@ -79,7 +79,7 @@ hprc
 # 0.001uF poly + 0.001uF ceramic
 0.002u
 
-# ------------------------- Valve Stage 2 -------------------------
+# ------------------------- Valve Stage 3 -------------------------
 # Caution! High output level!
 v
 
@@ -90,7 +90,8 @@ v
 100k
 
 # Rk, Ohms
-10k
+# 10k
+1k
 
 # Ck off-0, on-1
 0
