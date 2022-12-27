@@ -95,6 +95,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - B-52 AT-100
 - Bogner Triple Giant
 - CAE 3+ Preamp
+- Duncan DDS-2250V
 - ENGL E762/E765 Retro Tube 100
 - ENGL Ritchie Blackmore Signature 100
 - EVH 5150 III
