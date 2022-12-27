@@ -66,6 +66,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Marshall Studio 15 4001
 - Marshall Studio Vintage SV20H
 - Matamp GT120
+- Monoprice 15 (a.k.a. Harley Benton TUBE15)
 - Pignose G40
 - Pignose G60
 - Sovtek MIG-50
