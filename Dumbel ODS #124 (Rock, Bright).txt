@@ -1,0 +1,113 @@
+# Amplex V1.0 - Dumbel ODS #124
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+33k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+10u
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+# MidBoost (labeled "Deep"); 300pF > 0.002uF
+300p
+
+# C2
+0.01u
+
+# C3, Mid boost
+# Rock; 0.1uF
+# Jazz; 0.001uF
+0.1u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+500k
+
+# R3 Middle pot
+250k
+
+# R4
+150k
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+# Bright
+ls
+
+# R1
+1M
+
+# R2
+1M
+
+# C1
+300p
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+220k
+
+# R2
+220k
+
+# C1
+500p
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+10u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.05u
+
+# ------------------------- Divider -------------------------
+d
+100
+
+end
