@@ -95,6 +95,9 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - B-52 AT-100
 - Bogner Triple Giant
 - CAE 3+ Preamp
+- Dumble ODS #094
+- Dumble ODS #124
+- Dumble ODS #183
 - Duncan DDS-2250V
 - ENGL E762/E765 Retro Tube 100
 - ENGL Ritchie Blackmore Signature 100
