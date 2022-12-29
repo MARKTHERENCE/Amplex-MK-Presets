@@ -32,10 +32,12 @@ This is an oversimplification of the explanations provided in the manual.
 
 ## NaLex PowerBox
 
-![PowerBox_UI](https://user-images.githubusercontent.com/14950643/208229920-6ad9e161-2bbe-488e-91b4-644cbdee70b7.png)
+![PowerBox_UI_updated](https://user-images.githubusercontent.com/14950643/209920135-b824b420-8ce8-4fc3-b808-ec431f15e3c5.png)
 
 The output is quieter than the preamp itself so I had to set the Input knob's value to 1.50 to compensate.
 - ***Power*** adds more compression to the preamp, similar to the Sagging knob found in TPA-1
+- ***Low*** behaves like the Resonance knob found in TPA-1.
+- ***Presence*** is a bit more interactive with the frequencies compared to TPA-1
 - The ***Freq*** knobs below ***Low*** and ***Presence*** allow you to adjust the frequencies that both knobs would affect. They're set to 85Hz and 1kHz, respectively.
 - ***Bias*** functions the same as the one found in TPA-1. Setting the knob to 0 provides the hottest signal, and higher values will provide colder and lower output.
 - ***Asym*** affects the dynamic behavior of the power amp. Setting to 0 will result in a solid state-like power amp sound, while cranking it to full will result in a more non-linear sound similar to standard tube amps.
