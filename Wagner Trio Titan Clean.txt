@@ -30,16 +30,8 @@ v
 1
 
 # Ck, F
-22u
-
-# ------------------------- RC High Pass Filter -------------------------
-hprc
-
-# R, Ohms
-51k
-
-# C, F
-0.015u
+# Undetermined value; schematic labels this as "12/25" (assumed in voltage)
+25u
 
 # ------------------------- Tonestack Type 1 -------------------------
 ts
@@ -48,7 +40,7 @@ ts
 220p
 
 # C2
-0.0047u
+0.033u
 
 # C3
 0.033u
@@ -63,17 +55,7 @@ ts
 100k
 
 # R4
-100k
-
-# ------------------------- Resistive Divider -------------------------
-rd
-
-# R1
-# Resistive Parallel
-100k
-
-# R2
-1M
+51k
 
 # ------------------------- Gain Type 1 -------------------------
 g1
@@ -82,7 +64,7 @@ g1
 ls
 
 # R1
-100k
+1M
 
 # R2
 1M
@@ -107,7 +89,8 @@ v
 1
 
 # Ck, F
-22u
+# Undetermined value; schematic labels this as "12/25" (assumed in voltage)
+25u
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
@@ -128,14 +111,14 @@ ls
 2.2M
 
 # C1
-220p
+22p
 
 # ------------------------- Valve Stage 3 -------------------------
 # Caution! High output level!
 v
 
 # Rg, Ohms
-220k
+2.2M
 
 # Rp, Ohms
 100k
@@ -147,19 +130,8 @@ v
 1
 
 # Ck, F
-22u
-
-# ------------------------- Low Shelf Filter -------------------------
-ls
-
-# R1
-4.7M
-
-# R2
-4.7M
-
-# C1
-220p
+# Undetermined value; schematic labels this as "12/25" (assumed in voltage)
+25u
 
 # ------------------------- RC High Pass Filter -------------------------
 hprc
