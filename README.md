@@ -71,6 +71,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Monoprice 15 (a.k.a. Harley Benton TUBE15)
 - Pignose G40
 - Pignose G60
+- Reverend Kingsnake 20/60
 - Sovtek MIG-50
 - Sovtek MIG-60
 - Sovtek MIG-100H
@@ -138,6 +139,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
 - Marshall Vintage Modern 2266/2466
 - MESA/Boogie Lone Star/Lone Star Special
+- MESA/Boogie Nomad 55/100
 - MESA/Boogie Road King II
 - MESA/Boogie Stiletto Stage II
 - Metaltronix M-1000 Head
