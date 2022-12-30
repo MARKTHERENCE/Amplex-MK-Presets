@@ -1,0 +1,153 @@
+# Amplex V5.0 - Traveler 55
+
+# NOTE!!
+# 5-band EQ section is not implemented for 100w version. It can be simulated by an EQ after the amplifier.
+# Recommended EQ VST of choice - ReaEQ
+
+# Frequency ranges and band type
+# 1) 80 Hz, +/- 12dB, Low Shelf
+# 2) 240 Hz, +/- 12dB, Peak
+# 3) 750 Hz, +/- 12dB, Peak
+# 4) 2200 Hz, +/- 12dB, Peak
+# 5) 6600 Hz, +/- 12dB, High Shelf
+
+# ------------------------- Plate Voltage -------------------------
+vp, 120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+150k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+3.3M
+
+# C
+0.02u
+
+# ------------------------- Gain Type 2 -------------------------
+g2
+
+# C1 Pre-bright cap, F
+# CH2; 47pF
+# CH3; 0.002uF
+47p
+
+# R1 Pre-bright res, Ohms
+# CH2; 150k
+# CH3; 680k
+150k
+
+# C2 Bright cap, F
+# CH2; 1p (no bright)
+# CH3; 0.001uF
+1p
+
+# R2 Gain pot, Ohms
+1M
+
+# R3 Load, Ohms
+10M
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+150k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.01u
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+0.47u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+# CH2; 500pF
+# CH3; 250pF
+500p
+
+# C2
+0.02u
+
+# C3
+0.02u
+
+# R1 Treble pot
+# Vintage; 250k
+# Modern; 250k + 220k
+250k
+
+# R2 Bass pot
+1M
+
+# R3 Middle pot
+25k
+
+# R4
+# CH2; 82k
+# CH3; 47k
+82k
+
+# ------------------------- Divider -------------------------
+d
+50
+
+end

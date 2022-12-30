@@ -1,0 +1,132 @@
+# Amplex V1.0 - Kingserpent
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+# 10k
+1k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+500k
+
+# C
+0.022u
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+500k
+
+# R2
+500k
+
+# C1
+22p
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+510k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+# 15k
+1.5k
+
+# Ck off-0, on-1
+# UK switch
+1
+
+# Ck, F
+0.1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+470k
+
+# C
+0.022u
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+510k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- Cathode Follower -------------------------
+cf
+
+# ------------------------- Divider -------------------------
+d
+50
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+560p
+
+# C2
+0.022u
+
+# C3
+0.022u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+500k
+
+# R3 Middle pot
+20k
+
+# R4
+# US to LoFi; 56k > 33k
+33k
+
+end
