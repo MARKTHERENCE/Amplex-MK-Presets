@@ -88,6 +88,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Secondary Lead (loosely based on the Sunn Beta series)
 - Violet Delta Fuzz (original preset)
 - Visio Aro Project Staalhoofd Mod
+- Weighty Steel (circuit structure loosely based on the Boss HM-2 Heavy Metal pedal)
 
 ## Multi Channel
 - Ampeg V4, 1970 (1971 VT-40 also shares the same preamp circuit)
