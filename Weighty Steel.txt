@@ -1,0 +1,203 @@
+# Amplex V5.0 - Weighty Steel
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Input Buffer -------------------------
+# //RC High Pass Filter
+hprc
+
+# R
+1.01M
+
+# C
+0.047u
+
+# //Resistive Divider
+rd
+
+# R1
+10k
+
+# R2
+1M
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+22k
+
+# C
+0.047u
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+22k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+47u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+22k
+
+# C
+0.047u
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+22k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+47u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+250k
+
+# C
+0.047u
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Hard Clipping ------------------------- 
+# //Multiplier 
+m, 3
+
+# //Low Shelf Filter
+ls
+
+# R1
+220k
+
+# R2
+220k
+
+# C1
+100p
+
+# //Multiplier
+m, 2
+
+# ------------------------- Soft Clipping ------------------------- 
+# //RC Low Pass Filter
+lprc
+
+# R
+10k
+
+# C
+0.001u
+
+# //Multiplier
+m, 2
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+0.0068u
+
+# C2
+0.068u
+
+# C3
+0.0047u
+
+# R1 Treble pot
+10k
+
+# R2 Bass pot
+10k
+
+# R3 Middle pot
+10k
+
+# R4
+100k
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+3.3k
+
+# R2
+3.3k
+
+# C1
+470p
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+470k
+
+# C
+0.047u
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+10k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+100k
+
+# C
+1u
+
+# ------------------------- Divider -------------------------
+d
+100
+
+end
