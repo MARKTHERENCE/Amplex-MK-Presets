@@ -23,6 +23,15 @@ rd
 # R2
 1M
 
+# //RC High Pass Filter
+hprc
+
+# R
+1M
+
+# C
+1u
+
 # ------------------------- RC High Pass Filter -------------------------
 hprc
 
@@ -43,7 +52,7 @@ v
 100k
 
 # Rk, Ohms
-1k
+220
 
 # Ck off-0, on-1
 0
@@ -71,7 +80,7 @@ v
 100k
 
 # Rk, Ohms
-1k
+1.2k
 
 # Ck off-0, on-1
 0
@@ -83,7 +92,7 @@ v
 hprc
 
 # R
-250k
+47k
 
 # C
 0.047u
@@ -95,17 +104,23 @@ g1
 # //Multiplier 
 m, 3
 
-# //Low Shelf Filter
-ls
+# //RC Low Pass Filter
+lprc
 
-# R1
+# R
 220k
 
-# R2
-220k
-
-# C1
+# C
 100p
+
+# //RC High Pass Filter
+hprc
+
+# R
+10k
+
+# C
+1u
 
 # //Multiplier
 m, 2
@@ -122,6 +137,15 @@ lprc
 
 # //Multiplier
 m, 2
+
+# //RC High Pass Filter
+hprc
+
+# R
+68k
+
+# C
+1u
 
 # ------------------------- Tonestack -------------------------
 ts
@@ -145,21 +169,37 @@ ts
 10k
 
 # R4
-100k
+82k
 
-# ------------------------- Low Shelf Filter -------------------------
-ls
+# ------------------------- RC Low Pass Filter -------------------------
+lprc
 
-# R1
+# R
 3.3k
 
-# R2
-3.3k
-
-# C1
+# C
 470p
 
-# ------------------------- RC High Pass Filter -------------------------
+# ------------------------- Level -------------------------
+# //RC High Pass Filter
+hprc
+
+# R
+10k
+
+# C
+10u
+
+# //RC High Pass Filter
+hprc
+
+# R
+1M
+
+# C
+1u
+
+# //RC High Pass Filter
 hprc
 
 # R
@@ -191,10 +231,19 @@ v
 hprc
 
 # R
-100k
+101k
 
 # C
 1u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+1k
+
+# R2
+100k
 
 # ------------------------- Divider -------------------------
 d
