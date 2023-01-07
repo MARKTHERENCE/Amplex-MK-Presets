@@ -84,6 +84,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Friedman Pink Taco
 - Marshall 1959 SLP "Jose Arredondo Mod"
 - Marshall 200 1967 "Lead" ("Ritchie Blackmore" Cascade Mod)
+- Marshall JCM900 SLX 2100
 - Merlin Blencowe "Ultra High Gain"
 - Secondary Lead (loosely based on the Sunn Beta series)
 - Violet Delta Fuzz (original preset)
@@ -134,6 +135,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Marshall JCM900 4100
 - Marshall JCM2000 DSL100
 - Marshall JCM2000 TSL100
+- Marshall JTM60
 - Marshall JVM410H
 - Marshall Silver Jubilee 2555
 - Marshall SL5 Slash Signature
