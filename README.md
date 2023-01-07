@@ -72,6 +72,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Pignose G40
 - Pignose G60
 - Reverend Kingsnake 20/60
+- Selmer Treble and Bass MkII
 - Sovtek MIG-50
 - Sovtek MIG-60
 - Sovtek MIG-100H
@@ -86,6 +87,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Marshall 200 1967 "Lead" ("Ritchie Blackmore" Cascade Mod)
 - Marshall JCM900 SLX 2100
 - Merlin Blencowe "Ultra High Gain"
+- Peavey Windsor
 - Secondary Lead (loosely based on the Sunn Beta series)
 - Violet Delta Fuzz (original preset)
 - Visio Aro Project Staalhoofd Mod
