@@ -76,6 +76,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Sovtek MIG-50
 - Sovtek MIG-60
 - Sovtek MIG-100H
+- Supro 1690T
 - Trainwreck Express/Liverpool
 - Trainwreck Rocket
 - Yerasov Hammer Head
@@ -164,7 +165,6 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Splawn Nitro
 - Splawn Quick Rod
 - Sunn Model T
-- Supro 1690T
 - Tube Works RT-2100
 - Vox AC30 Top Boost (Silver Jubilee/S.S. Red)
 - Vox AC30 Top Boost (Reissue)
