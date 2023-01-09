@@ -88,6 +88,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Marshall 200 1967 "Lead" ("Ritchie Blackmore" Cascade Mod)
 - Marshall JCM900 SLX 2100
 - Merlin Blencowe "Ultra High Gain"
+- Orange Jim Root #4
 - Peavey Windsor
 - Secondary Lead (loosely based on the Sunn Beta series)
 - Violet Delta Fuzz (original preset)
