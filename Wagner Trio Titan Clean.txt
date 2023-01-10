@@ -33,6 +33,15 @@ v
 # Undetermined value; schematic labels this as "12/25" (assumed in voltage)
 25u
 
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+51k
+
+# C, F
+0.015u
+
 # ------------------------- Tonestack Type 1 -------------------------
 ts
 
