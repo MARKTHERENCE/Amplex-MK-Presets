@@ -49,7 +49,7 @@ The output is quieter than the preamp itself so I had to set the Input knob's va
 
 - Only the High Shelf band is enabled in the ***Pre EQ*** section. It is set to 1kHz to emulate the "Presence" knob found in some preamp circuits/power amps.
 - ***Bias*** affects the compression of the power amp. Turn it all the way up for a very open sound, and vice versa for colder tones.
-- ***Drive*** essentailly functions like the "Master Volume" that you would find in Marshall amps, so it will add a bit of distortion the more you turn it up. Adjust to taste.
+- ***Drive*** essentailly functions like the "Master Volume" that you would find in Class A power amps, so it will add a bit of distortion the more you turn it up. Adjust to taste.
 - ***Volume*** is the output level. Adjust this along with the Drive knob to avoid clipping.
 - The ***HP/LP Freq*** knobs shape the overall sound coming out of TubeDriver. I have set them to null for the full frequency range, but you may adjust them to remove low or high frequencies that you don't need.
 
