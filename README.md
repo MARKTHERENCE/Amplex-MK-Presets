@@ -7,7 +7,7 @@ Various amp schematics translated into .TXT files, written for the guitar amp si
 Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GUI will not work, so you must add a 3rd party power amp sim after. Below are the ones I would recommend:
 - [Ignite Amps TPA-1]( https://www.igniteamps.com/#tpa-1 )
 - [NaLex PowerBox]( https://nalexsoft.blogspot.com/2020/05/powerbox-poweramp.html )
-- [Nick Crow Lab TubeDriver]( link )
+- [Nick Crow Lab TubeDriver]( https://nickcrowlab.blogspot.com/2009/08/tubedriver-v10.html )
 
 This is an intentional decision as the impedance curve that is baked in Amplex's own power amp section might be undesirable for some who prefer to hear the full frequency range of the preamp circuits.
 
