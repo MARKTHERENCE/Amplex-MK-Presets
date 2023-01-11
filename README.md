@@ -7,6 +7,7 @@ Various amp schematics translated into .TXT files, written for the guitar amp si
 Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GUI will not work, so you must add a 3rd party power amp sim after. Below are the ones I would recommend:
 - [Ignite Amps TPA-1]( https://www.igniteamps.com/#tpa-1 )
 - [NaLex PowerBox]( https://nalexsoft.blogspot.com/2020/05/powerbox-poweramp.html )
+- [Nick Crow Lab TubeDriver]( link )
 
 This is an intentional decision as the impedance curve that is baked in Amplex's own power amp section might be undesirable for some who prefer to hear the full frequency range of the preamp circuits.
 
@@ -15,7 +16,7 @@ This is an intentional decision as the impedance curve that is baked in Amplex's
 
 Power amps are very crucial in the overall sound because they add coloration and other aspects depending on the type. We will only cover tube-based power amps in this scenario as that's the kind of sound that people usually think "sounds realistic", when what it actually does is add more saturation and harmonic content to the preamp and certain low/high frequencies are accentuated due to the non-linear nature of tubes.
 
-The settings will cover both TPA-1 and PowerBox. Recommended settings are provided in the screenshots below, with explanations for each control knob.
+The settings will cover all of them. Recommended settings are provided in the screenshots below, with explanations for each control knob.
 
 ## Ignite Amps TPA-1
 Image of the back panel (accessed via the right arrow)
@@ -42,6 +43,16 @@ The output is quieter than the preamp itself so I had to set the Input knob's va
 - ***Bias*** functions the same as the one found in TPA-1. Setting the knob to 0 provides the hottest signal, and higher values will provide colder and lower output.
 - ***Asym*** affects the dynamic behavior of the power amp. Setting to 0 will result in a solid state-like power amp sound, while cranking it to full will result in a more non-linear sound similar to standard tube amps.
 
+## Nick Crow Lab - TubeDriver
+
+![TubeDriver_UI](https://user-images.githubusercontent.com/14950643/211717010-a082b4b4-8dd4-49fc-940e-e8b5ea7814fa.png)
+
+- Only the High Shelf band is enabled in the ***Pre EQ*** section. It is set to 1kHz to emulate the "Presence" knob found in some preamp circuits/power amps.
+- ***Bias*** affects the compression of the power amp. Turn it all the way up for a very open sound, and vice versa for colder tones.
+- ***Drive*** essentailly functions like the "Master Volume" that you would find in Marshall amps, so it will add a bit of distortion the more you turn it up. Adjust to taste.
+- ***Volume*** is the output level. Adjust this along with the Drive knob to avoid clipping.
+- The ***HP/LP Freq*** knobs shape the overall sound coming out of TubeDriver. I have set them to null for the full frequency range, but you may adjust them to remove low or high frequencies that you don't need.
+
 # List of Amp Models
 This collection covers a wide range of amplifier types based on gain amount, voicing, etc. This is never set in stone as I may add more amp models at any given time.
 
@@ -53,6 +64,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - AX84 P1 eXtreme
 - AX84 P1 Hi-Octane
 - AX84 P1 Single-Ended Lead
+- Bogen CHB-35A (Amp Conversion)
 - Cameron CCV (2007, rev1)
 - Fender Bassman 5F6-A
 - Filmosound 385
@@ -205,3 +217,4 @@ There are instances where some high gain presets sound too overcompressed to the
 - Ceriatone for the [Dookie Mod layout]( http://www.ceriatone.com/british-style-plexi100-super-lead/#doc ).
 - [Philipp Frank]( https://www.youtube.com/watch?v=eGBc4lC8zaY ) for kindly making his Plexi schematic publicly available.
 - [Atomium Amplification]( https://atomiumamps.tumblr.com/post/116256981951/amt-ss-11b-mods-above-is-my-new-fly-in-show-setup ) for sharing their mod and schematics for the AMT SS-11B.
+- [Paul P's Bogen amp conversion schematics]( https://ppamps.blogspot.com/2013_02_01_archive.html ) as a basis for comparison with the stock Bogen CHB-35A circuits.
