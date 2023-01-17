@@ -175,6 +175,9 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Rivera Knucklehead
 - Rivera S-120/M60/M100
 - Silvertone 1484
+- Soldano SP-77 (Early Blue Model)
+- Soldano SP-77 (Series II)
+- Soldano X88R
 - Splawn Nitro
 - Splawn Quick Rod
 - Sunn Model T
