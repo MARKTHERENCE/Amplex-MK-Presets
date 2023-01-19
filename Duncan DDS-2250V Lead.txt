@@ -195,7 +195,7 @@ hprc
 v
 
 # Rg, Ohms
-47k
+220k
 
 # Rp, Ohms
 100k
