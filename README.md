@@ -113,6 +113,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Ampeg Lee Jackson VL-502/VL-1002
 - AMT SS-11A & SS-11B
 - AMT SS-11B Atomium Amplification Mod
+- AX84 Firefly
 - B-52 AT-100
 - Bogner Triple Giant
 - CAE 3+ Preamp
@@ -142,6 +143,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Laney GC30V
 - Laney GH100L
 - Laney Ironheart 120H
+- Laney VH100R
 - Lee Jackson Perfect Connection GP-1000 preamp
 - Lee Jackson XLS-1000
 - Marshall 1959RR Randy Rhoads Signature
