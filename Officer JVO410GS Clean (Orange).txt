@@ -1,0 +1,153 @@
+# Amplex V5.0 - Officer JVO410GS
+
+# ------------------------- Plate Voltage -------------------------
+vp
+230
+
+# ------------------------- Valve Stage 1:A -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1.0k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.5k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+2.2u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+2.2M
+
+# C, F
+100n
+
+# ------------------------- Tonestack Type 1 -------------------------
+ts
+
+# C1
+220p
+
+# C2
+100n
+
+# C3
+47n
+
+# R1 Treble pot
+200k
+
+# R2 Bass pot
+200k
+
+# R3 Middle pot
+20k
+
+# R4
+100k
+
+# ------------------------- Gain Type 1 -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+1M
+
+# R2
+1M
+
+# C1
+220p
+
+# ------------------------- Valve Stage 2:A -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+200k
+
+# Rp, Ohms
+82k
+
+# Rk, Ohms
+10k
+
+# Ck off-0, on-1
+#Extra gain stage
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+300k
+
+# C, F
+22n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+120k
+
+# R2
+4.7M
+
+# ------------------------- Valve Stage 2:B -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+120k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+820
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+680n
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+470k
+
+# C, F
+330n
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R, Ohms
+1M
+
+# C, F
+4.7n
+
+# ------------------------- Divider -------------------------
+d
+200
+
+end
