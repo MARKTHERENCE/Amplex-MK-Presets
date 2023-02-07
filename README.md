@@ -155,6 +155,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Marshall JCM2000 TSL100
 - Marshall JTM60
 - Marshall JVM410H
+- Marshall JVM410HJS "Joe Satriani" Signature
 - Marshall Silver Jubilee 2555
 - Marshall SL5 Slash Signature
 - Marshall Valvestate 8080/8100 (gain channel only, Contour knob not supported)
