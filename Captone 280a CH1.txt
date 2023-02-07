@@ -110,8 +110,7 @@ v
 470k
 
 # Rk, Ohms
-# 12k
-1.2k
+12k
 
 # Ck off-0, on-1
 0
