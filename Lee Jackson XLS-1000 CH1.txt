@@ -16,7 +16,7 @@ v
 
 # Rk, Ohms
 # 27.1k
-2.7k
+2.71k
 
 # Ck off-0, on-1
 1
