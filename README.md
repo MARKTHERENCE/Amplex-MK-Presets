@@ -102,10 +102,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Merlin Blencowe "Ultra High Gain"
 - Orange Jim Root #4
 - Peavey Windsor
-- Secondary Lead (loosely based on the Sunn Beta series)
-- Violet Delta Fuzz (original preset)
 - Visio Aro Project Staalhoofd Mod
-- Weighty Steel (circuit structure loosely based on the Boss HM-2 Heavy Metal pedal)
 
 ## Multi Channel
 - Ampeg V4, 1970 (1971 VT-40 also shares the same preamp circuit)
@@ -165,7 +162,6 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - MESA/Boogie Road King II
 - MESA/Boogie Stiletto Stage II
 - Metaltronix M-1000 Head
-- MTA'02 (inspired by PRS MT15)
 - Naylor Super-Drive 60
 - Orange Rockerverb
 - Orange Thunderverb
@@ -199,8 +195,17 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Marshall JMP Super Bass 100w 1992
 - Marshall 200 1978 "Bass"
 - Orange Terror Bass
-- Secondary Bass (loosely based on the Sunn Beta series)
 - Sovtek MIG-500 "Bassov Blues Boy"
+
+## Original Designs
+- MTA'02
+  - inspired by PRS MT15
+- Secondary Bass/Lead
+  - loosely based on the Sunn Beta amp series
+- Violet Delta Fuzz
+  - loosely based on the V2 "Violet" Rams Head Big Muff Pi pedal
+- Weighty Steel
+  - loosely based on the Boss HM-2 Heavy Metal pedal
 
 # Troubleshooting
 There are a few notable bugs that may cause Amplex to work or sound as intended. The ones mentioned below are the most prominent ones.
