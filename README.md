@@ -94,6 +94,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Yerasov Hammer Head
 
 ## High Gain and Beyond
+- Cornford RK100
 - Friedman Dirty Shirley
 - Friedman Pink Taco
 - Marshall 1959 SLP "Jose Arredondo Mod"
@@ -114,6 +115,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - B-52 AT-100
 - Bogner Triple Giant
 - CAE 3+ Preamp
+- Cornford MK50 II
 - Dumble ODS #094
 - Dumble ODS #124
 - Dumble ODS #183
