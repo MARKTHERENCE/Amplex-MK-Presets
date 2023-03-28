@@ -317,7 +317,7 @@ Some names were left as is, the following list are for the ones that were rename
 - "Valvelabor RT2100" = Tube Works RT-2100
 - "Varitone" = Koch Multitone I
 - "Vladamp GT120" = Matamp GT120
-- "Vocal 1959 TB" = Vox 1969 Top Boost
+- "Vocal 1959 TB" = Vox AC30 Top Boost
 - "Wagner Trio Titan" = Bogner Triple Giant preamp
 - "WC-11a/b" = AMT SS-11A/B preamp
 - "Weldano WP77" = Soldano SP77 preamp
