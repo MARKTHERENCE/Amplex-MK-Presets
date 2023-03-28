@@ -114,6 +114,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - AX84 Firefly
 - B-52 AT-100
 - Bogner Triple Giant
+- Bugera V55
 - CAE 3+ Preamp
 - Cornford MK50 II
 - Dumble ODS #094
@@ -169,6 +170,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Orange Thunderverb
 - Peavey Classic 20
 - Peavey JSX 120
+- Peavey XXX
 - Philipp Frank's homemade 18 Watt Plexi
 - PRS SE 50
 - Randall RGT100
@@ -200,6 +202,8 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Sovtek MIG-500 "Bassov Blues Boy"
 
 ## Original Designs
+- Mixture
+  - Very mid-scooped
 - MTA'02
   - inspired by PRS MT15
 - Secondary Bass/Lead
@@ -208,6 +212,117 @@ This collection covers a wide range of amplifier types based on gain amount, voi
   - loosely based on the V2 "Violet" Rams Head Big Muff Pi pedal
 - Weighty Steel
   - loosely based on the Boss HM-2 Heavy Metal pedal
+
+# Guide for Preset Names
+
+Some names were left as is, the following list are for the ones that were renamed into loose synonyms/sound-alikes.
+
+- "1959 LA Mod" = Marshall 1959 SLP "Jose Arredondo mod"
+- "1959RR Lead" = Marshall 1959RR "Randy Rhoads" Super Lead Signature
+- "1979 Jazz Ensemble 120 III" = 1979 Roland JC-120 "3rd Edition"
+- "Bugeri O55" = Bugera V55
+- "Captone 280a" = Magnatone 280a
+- "Cobford RK100" = Cornford RK100
+- "Cobford MK50II" = Cornford MK50II
+- "Complex Naja" = Framus Cobra
+- "Crispman Mini Cube" = Friedman Small Box
+- "Crispman Nasty Meadow" = Friedman Dirty Shirley
+- "Crispman Rosy Greaser" = Friedman Pink Taco
+- "CSE 3+ Preamp" = CAE 3+ preamp
+- "Dagger Juice LVL2" = MESA/Boogie Stiletto Deuce Stage II
+- "Darkmore 100" = ENGL Ritchie Blackmore 100 Signature Head
+- "Disaster Spacecraft" = Trainwreck Rocket
+- "Disaster West" = Trainwreck Liverpool
+- "Dookie 100" = Marshall 1959 SLP "Dookie mod"
+- "Dumbel ODS" = Dumble ODS
+- "Expert Valve 100 II" = Laney AOR Pro-Tube 100 II
+- "Feline Falcon Quatro" = Kitty Hawk Quattro preamp
+- "Feline Falcon Younger" = Kitty Hawk Junior Head
+- "Ferrouscore 120" = Laney Ironheart 120H
+- "Fortress Goldstate Mod" = Marshall SLP "Fortin Cali mod"
+- "GC30T" = Laney VC30T
+- "GTR100H" = Laney GH100L
+- "GTR100TI" = Laney GH100TI "Tony Iommi Signature"
+- "Guard '86 Crimson Entertainer" = Fender '86 Red Knob Dual Showman
+- "Guard Deepman 5F6-A" = Fender Bassman 5F6-A
+- "Guard Heavyknife" = Fender Machete
+- "Guard Prosound" = Fender Prosonic
+- "Halen 1986 III" = EVH 5150 III
+- "Helios Model T" = Sunn Model T
+- "Hook Airsoar" = Peavey Windsor
+- "Hook Classic 20" = Peavey Classic 20 Head
+- "Hook DSX120" = Peavey JSX120
+- "Hook XXX" = Peavey XXX
+- "Horror Bass" = Orange Terror Bass
+- "Jim Origins #4" = Orange Jim Root #4 Terror Head
+- "Kamron '07 rev1" = Cameron CCV (2007, rev1)
+- "Kingserpent" = Reverend Kingsnake 25/50w
+- "King's Road II" = MESA/Boogie Roadking II
+- "Loudpeg L-15N" = Ampeg B-15N
+- "Loudpeg T4" = Ampeg V4
+- "Loudpeg TT40" = Ampeg VT-40
+- "Loudpeg VL502-1002" = Ampeg Lee Jackson VL502/VL1002
+- "Lightningverb 50w" = Orange Thunderverb 50w
+- "Magician Contemporary Vintage" = Wizard Modern Classic I
+- "Monocost 15" = Monoprice 15/Harley Benton TUBE15
+- "Nolor Marveldrive 60" = Naylor Super-Drive 60
+- "Officer 200 1967u Lead" = Marshall Major 200w 1967u
+- "Officer 200 1978u Bass" = Marshall Major 200w 1978u "Bass"
+- "Officer 6100" = Marshall 6100 30th Anniversary Head
+- "Officer Bluescracker 1962" = Marshall Bluesbreaker 1962
+- "Officer Grey 25th Anniversary" = Marshall Silver Jubilee
+- "Officer JCO600" = Marshall JCM600
+- "Officer JCO800" = Marshall JCM800 2210
+- "Officer JCO900" = Marshall JCM900 4100
+- "Officer JOP 2203" = Marshall JMP 2203
+- "Officer JCO2000 DSL100" = Marshall JCM2000 DSL100
+- "Officer JCO2000 TSL100" = Marshall JCM2000 TSL100
+- "Officer JOP Ultra Bass 100w 1992" = Marshall JMP 1992 Super Bass 100w
+- "Officer JOT45" = Marshall JTM45
+- "Officer JTO60" = Marshall JTM60
+- "Officer JVO410" = Marshall JVM410H
+- "Officer JVO410GS" = Marshall JVM410JS Joe Satriani Signature
+- "Officer Prime Contemporary 2466" = Marshall Vintage Modern 2466
+- "Officer Slice SL5" = Marshall Slash SL5
+- "Officer SP20H" = Marshall SV20H
+- "Officer Studio 15 4001" = Marshall Studio 15 4001
+- "Officer JCO900 SLX 2100" = Marshall JCM900 SLX 2100"
+- "PCS PE50" = PRS SE50 Head
+- "Randy Beater" = Randall Thrasher
+- "Randy RGT100" = Randall RGT100
+- "Retro Valve 100" = ENGL Retro Tube 100
+- "Rio Blockhead" = Rivera Knucklehead
+- "Rio M100" = Rivera M100
+- "Ruski MiG50" = Sovtek MiG50
+- "Ruski MiG60" = Sovtek MiG60
+- "Ruski MiG100H" = Sovtek MiG100H
+- "Ruski MiG500 Bassov" = Sovtek MiG-500 "Bassov Blues Boy"
+- "Salmon Treble 'n Bass MKII" = Selmer Treble 'n Bass MKII
+- "Sick Sickenstein" = Krank Krankenstein
+- "Sick Warwick" = Krank Chadwick
+- "Silversound 1484" = Silvertone 1484
+- "Sneezeyawn Dynamite" = Splawn Nitro
+- "Sneezeyawn Fast Rail" = Splawn Hot Rod
+- "Solitarystar" = MESA/Boogie Lone Star
+- "Steelface" = Fender Metalhead
+- "Steeltronix S-1000" = Metaltronix M-1000 Head
+- "Stoneverb 50w" = Orange Rockerverb 50w
+- "Super 1960T" = Supro 1960T
+- "Susmuzzle G40/G60" = Pignose G40/G60
+- "Tallwatt DR103" = Hiwatt DR103
+- "TH100R" = Laney VH100R
+- "Traveler 55" = MESA/Boogie Nomad 55/100 Head
+- "Triumamp" = Hughes & Kettner Triamp
+- "Ultraband 100 MK1 '69" = Laney Supergroup 100 MK1 (1969)
+- "Valvelabor RT2100" = Tube Works RT-2100
+- "Varitone" = Koch Multitone I
+- "Vladamp GT120" = Matamp GT120
+- "Vocal 1959 TB" = Vox 1969 Top Boost
+- "Wagner Trio Titan" = Bogner Triple Giant preamp
+- "WC-11a/b" = AMT SS-11A/B preamp
+- "Weldano WP77" = Soldano SP77 preamp
+- "Weldano X88R" = Soldano X88R preamp
+- "Yamaba T100" = Yamaha T100
 
 # Troubleshooting
 There are a few notable bugs that may cause Amplex to work or sound as intended. The ones mentioned below are the most prominent ones.
