@@ -68,7 +68,6 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Cameron CCV (2007, rev1)
 - Fender Bassman 5F6-A
 - Filmosound 385
-- Fortin "Cali Mod"
 - Hiwatt DR103
 - Laney GH100TI Tony Iommi Signature
 - Laney Supergroup 100 MK1 1969 build
@@ -95,6 +94,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 
 ## High Gain and Beyond
 - Cornford RK100
+- Fortin "Cali Mod"
 - Friedman Dirty Shirley
 - Friedman Pink Taco
 - Marshall 1959 SLP "Jose Arredondo Mod"
