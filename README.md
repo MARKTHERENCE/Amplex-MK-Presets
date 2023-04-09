@@ -212,6 +212,8 @@ This collection covers a wide range of amplifier types based on gain amount, voi
   - loosely based on the V2 "Violet" Rams Head Big Muff Pi pedal
 - Weighty Steel
   - loosely based on the Boss HM-2 Heavy Metal pedal
+- Ten-Calendar
+  - loosely based on the Peavey Decade
 
 # Guide for Preset Names
 
