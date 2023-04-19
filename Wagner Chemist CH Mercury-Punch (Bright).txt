@@ -1,0 +1,226 @@
+# Amplex V1.0 - Wagner Chemist
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.6k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+3.3u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+4.7M
+
+# C
+0.22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1M
+
+# C
+0.022u
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+1M
+
+# R2
+1M
+
+# C1
+1000p
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+1k
+
+# R2
+330k
+
+# ------------------------- RC Low Pass Filter -------------------------
+lprc
+
+# R
+470k
+
+# C
+22p
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+470k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+# Punch; 10uF > 0.68uF
+0.68u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1.33M
+
+# C
+0.022u
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+1M
+
+# R2
+330k
+
+# ------------------------- Low Shelf Filter -------------------------
+ls
+
+# R1
+68k
+
+# R2
+68k
+
+# C1
+470p
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Low Shelf Filter -------------------------
+# Bright
+ls
+
+# R1
+1M
+
+# R2
+1M
+
+# C1
+220p
+
+# ------------------------- Valve Stage 3 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+1M
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+#37k
+2.37k
+
+# Ck off-0, on-1
+0
+
+# Ck, F
+1u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+820k
+
+# C
+0.022u
+
+# ------------------------- Valve Stage 4 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+220k
+
+# Rp, Ohms
+220k
+
+# Rk, Ohms
+1.8k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+2.2u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R1
+100k
+
+# C
+0.022u
+
+# ------------------------- Divider -------------------------
+d, 50
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+# Mid Shift; 470pF x 2
+470p
+
+# C2
+0.022u
+
+# C3
+0.022u
+
+# R1 Treble pot
+250k
+
+# R2 Bass pot
+# Dual pot; 1M x 2
+2M
+
+# R3 Middle pot
+25k
+
+# R4
+68k
+
+end

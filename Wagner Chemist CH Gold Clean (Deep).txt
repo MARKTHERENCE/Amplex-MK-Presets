@@ -1,0 +1,113 @@
+# Amplex V1.0 - Wagner Chemist
+
+# ------------------------- Plate Voltage -------------------------
+vp
+120
+
+# ------------------------- Valve Stage 1 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+68k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.6k
+
+# Ck off-0, on-1
+1
+
+# Ck, F
+3.3u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+4.7M
+
+# C
+0.22u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+500k
+
+# C
+0.22u
+
+# ------------------------- Tonestack -------------------------
+ts
+
+# C1
+270p
+
+# C2
+# Deep; 0.1uF > 4.7nF
+4.7n
+
+# C3
+0.047u
+
+# R1 Treble pot
+500k
+
+# R2 Bass pot
+250k
+
+# R3 Middle pot
+100k
+
+# R4
+100k
+
+# ------------------------- Gain -------------------------
+g1
+
+# ------------------------- Valve Stage 2 -------------------------
+# Caution! High output level!
+v
+
+# Rg, Ohms
+180k
+
+# Rp, Ohms
+100k
+
+# Rk, Ohms
+1.6k
+
+# Ck off-0, on-1
+# Crunch Mode
+0
+
+# Ck, F
+10u
+
+# ------------------------- RC High Pass Filter -------------------------
+hprc
+
+# R
+1.047M
+
+# C
+10n
+
+# ------------------------- Resistive Divider -------------------------
+rd
+
+# R1
+1M
+
+# R2
+47k
+
+# ------------------------- Divider -------------------------
+d, 3
+
+end
