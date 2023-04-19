@@ -113,6 +113,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - AMT SS-11B Atomium Amplification Mod
 - AX84 Firefly
 - B-52 AT-100
+- Bogner Alchemist
 - Bogner Triple Giant
 - Bugera V55
 - CAE 3+ Preamp
@@ -320,6 +321,7 @@ Some names were left as is, the following list are for the ones that were rename
 - "Varitone" = Koch Multitone I
 - "Vladamp GT120" = Matamp GT120
 - "Vocal 1959 TB" = Vox AC30 Top Boost
+- "Wagner Chemist" = Bogner Alchemist
 - "Wagner Trio Titan" = Bogner Triple Giant preamp
 - "WC-11a/b" = AMT SS-11A/B preamp
 - "Weldano WP77" = Soldano SP77 preamp
