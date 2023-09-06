@@ -1,7 +1,7 @@
 # Amplex-MK-Presets
 ![BoxGraphic](https://user-images.githubusercontent.com/14950643/184476179-c898eccb-d922-41bf-8894-fc49fe7a0af7.png)
 
-Various amp schematics translated into .TXT files, written for the guitar amp sim plugin "[Amplex]( https://nalexsoftware.blogspot.com/2020/07/amplex-multiamp.html )" developed by [NaLex Software]( https://nalexsoft.blogspot.com ).
+Various amp schematics translated into .TXT files, written for the guitar amp sim plugin "[Amplex]( https://nalexsoftware.blogspot.com/2020/07/amplex-multiamp.html )" developed by [NaLex Software]( https://nalexsoftware.blogspot.com ).
 
 ## IMPORTANT!
 Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GUI will not work, so you must add a 3rd party power amp sim after. Below are the ones I would recommend:
