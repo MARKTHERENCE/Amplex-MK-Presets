@@ -1,7 +1,9 @@
 # Amplex-MK-Presets
 ![BoxGraphic](https://user-images.githubusercontent.com/14950643/184476179-c898eccb-d922-41bf-8894-fc49fe7a0af7.png)
 
-Various amp schematics translated into .TXT files, written for the guitar amp sim plugin "[Amplex]( https://nalexsoftware.blogspot.com/2020/07/amplex-multiamp.html )" developed by [NaLex Software]( https://nalexsoftware.blogspot.com ).
+Various amp schematics translated into .TXT files, written for the guitar amp sim plugin "~~[Amplex]( https://nalexsoftware.blogspot.com/2020/07/amplex-multiamp.html )~~" developed by ~~[NaLex Software]( https://nalexsoftware.blogspot.com )~~.
+
+#### UPDATE: As of September 4, 2024, NaLex's website has been removed again. Presuming that he is likely looking for another blogspot name (or possibly a new web domain), I will provide a [OneDrive mirror link]( https://1drv.ms/f/s!Aj2M95S7YBPBhH_gWiK2xNEVZpog?e=6VtpUj ) in the meantime. This already includes every version of Amplex for compatibility reasons, and the stock presets provided by NaLex himself.
 
 ## IMPORTANT!
 Only the preamp circuits are ported. As such, the Power Amp knobs in Amplex's GUI will not work, so you must add a 3rd party power amp sim after. Below are the ones I would recommend:
